@@ -1,0 +1,4022 @@
+[
+  {
+    "storage_location": [
+      {
+        "id": "30ffd907-6f7a-4430-a2bb-f8338bd433ed",
+        "created_at": "2023-09-19T19:48:36.603Z",
+        "updated_at": "2023-09-19T20:55:07.550Z"
+      },
+      {
+        "id": "4a250b4b-ccd9-4741-a467-03a1551f3390",
+        "created_at": "2023-09-20T01:46:48.594Z",
+        "updated_at": "2023-09-20T01:30:01.486Z"
+      },
+      {
+        "id": "328d7be4-b3ef-40f5-a300-fe472409d688",
+        "created_at": "2023-09-19T19:04:26.971Z",
+        "updated_at": "2023-09-20T11:51:23.348Z"
+      },
+      {
+        "id": "6856c6a6-bfd8-41f6-88ea-973b15a06ab4",
+        "created_at": "2023-09-19T23:26:49.698Z",
+        "updated_at": "2023-09-20T08:36:44.741Z"
+      },
+      {
+        "id": "bcdb83e1-12df-4852-9698-c958411e996a",
+        "created_at": "2023-09-20T03:24:51.897Z",
+        "updated_at": "2023-09-20T02:09:25.168Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "defcb7fe-c3a2-4185-8661-25abaecdb65e",
+        "created_at": "2023-09-20T12:05:07.519Z",
+        "updated_at": "2023-09-19T13:52:44.515Z"
+      },
+      {
+        "id": "b294b3b5-7893-4e2a-b859-33c3b7d922a8",
+        "created_at": "2023-09-19T17:02:47.046Z",
+        "updated_at": "2023-09-19T18:23:42.850Z"
+      },
+      {
+        "id": "e3b8aa1e-2831-4e30-9776-6b98e255820e",
+        "created_at": "2023-09-19T15:45:12.924Z",
+        "updated_at": "2023-09-20T08:10:49.329Z"
+      },
+      {
+        "id": "741aae21-3b7e-4a2b-b37b-950f710d5870",
+        "created_at": "2023-09-20T04:17:42.386Z",
+        "updated_at": "2023-09-20T01:01:07.865Z"
+      },
+      {
+        "id": "56ccd998-297f-46f2-b9a3-5b7b3ac89b79",
+        "created_at": "2023-09-19T18:43:21.290Z",
+        "updated_at": "2023-09-20T10:50:19.743Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "05653c8e-7404-4288-adc7-a7bfa097dd4e",
+        "created_at": "2023-09-20T06:05:34.992Z",
+        "updated_at": "2023-09-19T15:23:22.900Z"
+      },
+      {
+        "id": "47be8e2f-09ef-420f-a3bb-b6351b49eec9",
+        "created_at": "2023-09-20T03:48:12.336Z",
+        "updated_at": "2023-09-20T10:17:17.938Z"
+      },
+      {
+        "id": "dc198a02-da87-4599-9058-552e5f628062",
+        "created_at": "2023-09-19T18:53:27.181Z",
+        "updated_at": "2023-09-19T21:32:38.503Z"
+      },
+      {
+        "id": "b322a84e-fa2a-45f6-8e00-173417f91615",
+        "created_at": "2023-09-20T06:40:23.069Z",
+        "updated_at": "2023-09-20T12:08:50.904Z"
+      },
+      {
+        "id": "44fa9ad5-33c5-42ae-8fe6-322929191fa4",
+        "created_at": "2023-09-20T02:57:33.381Z",
+        "updated_at": "2023-09-20T13:08:28.078Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "e5dc239e-19d4-4cde-89e5-d5723e684067",
+        "unit_number": 91711,
+        "size": "Small",
+        "availability_status": false,
+        "rent_price": 19531,
+        "last_maintenance_date": "2023-09-20T08:05:17.241Z",
+        "created_at": "2023-09-20T00:24:05.640Z",
+        "updated_at": "2023-09-20T01:19:45.002Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "7a107c57-af09-4c88-a0e1-071a0ca2b9d1",
+        "unit_number": 44155,
+        "size": "Medium",
+        "availability_status": false,
+        "rent_price": 43860,
+        "last_maintenance_date": "2023-09-20T08:12:54.990Z",
+        "created_at": "2023-09-19T15:04:37.644Z",
+        "updated_at": "2023-09-20T13:05:22.220Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "9d98658d-682a-40c1-9f43-f14a0ea3123f",
+        "unit_number": 15825,
+        "size": "Large",
+        "availability_status": true,
+        "rent_price": 8777,
+        "last_maintenance_date": "2023-09-19T17:11:30.649Z",
+        "created_at": "2023-09-19T21:13:46.764Z",
+        "updated_at": "2023-09-20T09:47:14.748Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "72e94f66-c591-48c6-bd1b-cf811731697f",
+        "unit_number": 38688,
+        "size": "Extra Large",
+        "availability_status": true,
+        "rent_price": 97980,
+        "last_maintenance_date": "2023-09-20T11:56:52.792Z",
+        "created_at": "2023-09-20T02:46:10.272Z",
+        "updated_at": "2023-09-20T13:08:36.263Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "25229b66-9371-4e41-8854-e21253e6aec8",
+        "unit_number": 76459,
+        "size": "Custom",
+        "availability_status": false,
+        "rent_price": 1278,
+        "last_maintenance_date": "2023-09-19T21:54:26.663Z",
+        "created_at": "2023-09-19T20:47:26.455Z",
+        "updated_at": "2023-09-20T06:58:26.231Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "c1bed38d-88a2-492b-a78d-ecec4aea7131",
+        "start_date": "2023-09-19T23:15:32.868Z",
+        "end_date": "2023-09-20T07:05:27.236Z",
+        "total_cost": 3526,
+        "payment_status": true,
+        "created_at": "2023-09-19T23:33:35.585Z",
+        "updated_at": "2023-09-20T11:00:08.145Z",
+        "storage_unit_id": "e5dc239e-19d4-4cde-89e5-d5723e684067",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "134f4438-4713-4969-abee-32bd990d634c",
+        "start_date": "2023-09-20T11:36:48.974Z",
+        "end_date": "2023-09-20T05:56:25.017Z",
+        "total_cost": 30834,
+        "payment_status": true,
+        "created_at": "2023-09-20T00:24:41.072Z",
+        "updated_at": "2023-09-19T16:20:26.452Z",
+        "storage_unit_id": "9d98658d-682a-40c1-9f43-f14a0ea3123f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06aeaf53-2d79-45c2-b890-1d7237934590",
+        "start_date": "2023-09-19T17:16:49.093Z",
+        "end_date": "2023-09-20T08:16:36.290Z",
+        "total_cost": 93488,
+        "payment_status": false,
+        "created_at": "2023-09-20T08:40:59.678Z",
+        "updated_at": "2023-09-19T16:57:48.499Z",
+        "storage_unit_id": "7a107c57-af09-4c88-a0e1-071a0ca2b9d1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3afd048c-8e32-408e-97a6-1fb60ae71e4a",
+        "start_date": "2023-09-20T12:43:43.872Z",
+        "end_date": "2023-09-20T01:31:39.652Z",
+        "total_cost": 57843,
+        "payment_status": true,
+        "created_at": "2023-09-20T01:02:02.393Z",
+        "updated_at": "2023-09-19T15:02:53.294Z",
+        "storage_unit_id": "72e94f66-c591-48c6-bd1b-cf811731697f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb0aba70-b935-4c9c-aab5-bf5a37f02a44",
+        "start_date": "2023-09-19T17:09:16.840Z",
+        "end_date": "2023-09-19T19:54:22.640Z",
+        "total_cost": 67033,
+        "payment_status": true,
+        "created_at": "2023-09-20T12:57:01.205Z",
+        "updated_at": "2023-09-19T20:11:32.817Z",
+        "storage_unit_id": "7a107c57-af09-4c88-a0e1-071a0ca2b9d1",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "5645e370-8194-4cdd-b390-254624588a0c",
+        "maintenance_date": "2023-09-20T08:46:04.249Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance to ensure optimal performance",
+        "cost": 34326,
+        "created_at": "2023-09-20T03:04:49.438Z",
+        "updated_at": "2023-09-20T07:50:30.600Z",
+        "storage_unit_id": "72e94f66-c591-48c6-bd1b-cf811731697f"
+      },
+      {
+        "id": "ce81eb62-6758-4e65-9625-00f14dd703e5",
+        "maintenance_date": "2023-09-20T03:45:01.069Z",
+        "maintenance_type": "Preventive",
+        "description": "Proactive measures to prevent issues",
+        "cost": 18209,
+        "created_at": "2023-09-19T22:47:02.514Z",
+        "updated_at": "2023-09-19T18:12:09.093Z",
+        "storage_unit_id": "e5dc239e-19d4-4cde-89e5-d5723e684067"
+      },
+      {
+        "id": "edf12b59-c853-4620-8774-b64be9bafa04",
+        "maintenance_date": "2023-09-19T18:15:13.435Z",
+        "maintenance_type": "Corrective",
+        "description": "Fixing problems as they arise",
+        "cost": 21304,
+        "created_at": "2023-09-20T10:22:18.355Z",
+        "updated_at": "2023-09-20T09:14:43.196Z",
+        "storage_unit_id": "25229b66-9371-4e41-8854-e21253e6aec8"
+      },
+      {
+        "id": "bb5f42f8-dbaf-4cba-b854-cb9ae02e59e3",
+        "maintenance_date": "2023-09-20T13:36:35.503Z",
+        "maintenance_type": "Emergency",
+        "description": "Urgent repairs required immediately",
+        "cost": 71929,
+        "created_at": "2023-09-20T08:33:49.619Z",
+        "updated_at": "2023-09-20T10:53:24.857Z",
+        "storage_unit_id": "25229b66-9371-4e41-8854-e21253e6aec8"
+      },
+      {
+        "id": "77ec5387-b469-4327-af5e-fb0a383932c3",
+        "maintenance_date": "2023-09-20T02:20:26.010Z",
+        "maintenance_type": "Scheduled",
+        "description": "Planned maintenance for future dates",
+        "cost": 9343,
+        "created_at": "2023-09-19T23:17:49.448Z",
+        "updated_at": "2023-09-20T09:40:52.210Z",
+        "storage_unit_id": "9d98658d-682a-40c1-9f43-f14a0ea3123f"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "9713f925-c699-4eda-a0f0-8066cee78e14",
+        "item_name": "Chair",
+        "quantity": 90891,
+        "location": "Office",
+        "last_updated": "2023-09-20T10:20:22.069Z",
+        "created_at": "2023-09-20T12:33:42.430Z",
+        "updated_at": "2023-09-19T23:42:12.319Z",
+        "storage_unit_id": "9d98658d-682a-40c1-9f43-f14a0ea3123f"
+      },
+      {
+        "id": "ea10808b-e39b-4742-90cf-8b3a4925cf67",
+        "item_name": "Table",
+        "quantity": 63945,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T02:10:45.054Z",
+        "created_at": "2023-09-20T08:39:16.441Z",
+        "updated_at": "2023-09-19T13:59:57.101Z",
+        "storage_unit_id": "e5dc239e-19d4-4cde-89e5-d5723e684067"
+      },
+      {
+        "id": "59db5260-2cff-4df8-9362-9a51d5ccae21",
+        "item_name": "Laptop",
+        "quantity": 78639,
+        "location": "Store",
+        "last_updated": "2023-09-20T07:17:07.968Z",
+        "created_at": "2023-09-20T09:18:06.381Z",
+        "updated_at": "2023-09-19T19:58:45.741Z",
+        "storage_unit_id": "25229b66-9371-4e41-8854-e21253e6aec8"
+      },
+      {
+        "id": "9cb09bd2-3ea1-45cc-a84d-5d978f437a98",
+        "item_name": "Printer",
+        "quantity": 57154,
+        "location": "Home",
+        "last_updated": "2023-09-19T20:12:31.372Z",
+        "created_at": "2023-09-20T13:05:49.428Z",
+        "updated_at": "2023-09-20T00:57:41.604Z",
+        "storage_unit_id": "7a107c57-af09-4c88-a0e1-071a0ca2b9d1"
+      },
+      {
+        "id": "eaba9b90-5c76-437d-9fe5-61bffdaaa7e7",
+        "item_name": "Monitor",
+        "quantity": 51209,
+        "location": "Garage",
+        "last_updated": "2023-09-20T02:41:14.523Z",
+        "created_at": "2023-09-20T00:23:31.981Z",
+        "updated_at": "2023-09-20T02:38:29.523Z",
+        "storage_unit_id": "9d98658d-682a-40c1-9f43-f14a0ea3123f"
+      }
+    ],
+    "customer": [
+      {
+        "id": "58a1f744-2961-4022-98fc-c61a0dabdc9c",
+        "created_at": "2023-09-20T12:18:07.307Z",
+        "updated_at": "2023-09-19T16:47:21.028Z"
+      },
+      {
+        "id": "b096c7c1-7851-413f-863c-30f40b38b0ca",
+        "created_at": "2023-09-19T18:28:51.726Z",
+        "updated_at": "2023-09-19T18:28:03.942Z"
+      },
+      {
+        "id": "779d5fa2-766b-4ce8-a7de-3c88c2bd0a3c",
+        "created_at": "2023-09-20T08:51:45.786Z",
+        "updated_at": "2023-09-19T16:47:22.610Z"
+      },
+      {
+        "id": "1e73ff43-40e0-45e2-9491-b8a96066f70a",
+        "created_at": "2023-09-20T07:58:05.066Z",
+        "updated_at": "2023-09-20T07:27:55.546Z"
+      },
+      {
+        "id": "f28820e0-e18c-478a-a12f-6da972bafccf",
+        "created_at": "2023-09-19T14:12:28.026Z",
+        "updated_at": "2023-09-20T09:25:28.964Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "b08462b3-2136-42b0-aa1d-1b80b686b96c",
+        "created_at": "2023-09-20T02:05:01.934Z",
+        "updated_at": "2023-09-19T18:21:15.606Z"
+      },
+      {
+        "id": "4067249d-ee52-47f0-ac02-c8c5a61f2f94",
+        "created_at": "2023-09-20T01:31:52.907Z",
+        "updated_at": "2023-09-20T07:32:08.846Z"
+      },
+      {
+        "id": "ef77ceb4-d16c-4de4-a6d0-1b1232f1dfa7",
+        "created_at": "2023-09-20T05:06:23.715Z",
+        "updated_at": "2023-09-20T01:34:31.063Z"
+      },
+      {
+        "id": "2946f433-7f57-4e98-b64c-35e5d14725e7",
+        "created_at": "2023-09-20T13:00:05.191Z",
+        "updated_at": "2023-09-19T19:07:03.851Z"
+      },
+      {
+        "id": "00fadc55-d8a9-4fbe-a01f-298f825d662f",
+        "created_at": "2023-09-19T19:07:56.343Z",
+        "updated_at": "2023-09-19T18:24:16.052Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1ef9d0da-a220-4a92-bdc8-09263e8a192e",
+        "email": "Coralie.Williamson@yahoo.com",
+        "firstName": "Godfrey",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/910.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "db8f3db6-4723-4639-9e87-784273410e1a",
+        "email": "Richie.Batz99@gmail.com",
+        "firstName": "Keara",
+        "lastName": "Hansen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29925973",
+        "tenantId": null
+      },
+      {
+        "reference": "b97c1b1d-a238-4ee4-9311-173b3e2a34fd",
+        "email": "Audra47@gmail.com",
+        "firstName": "Donald",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91916593",
+        "tenantId": null
+      },
+      {
+        "reference": "af778f05-db8c-45b7-8c0a-d7e6c17f1cf6",
+        "email": "Sylvan63@gmail.com",
+        "firstName": "Creola",
+        "lastName": "Schultz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/767382",
+        "tenantId": null
+      },
+      {
+        "reference": "5adda7ff-3212-454e-8a46-1303da0ff75d",
+        "email": "Theron_Littel@gmail.com",
+        "firstName": "Ardella",
+        "lastName": "Cronin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29143953",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "afb98eef-bbe9-4925-bca9-a55398cdf65c",
+        "created_at": "2023-09-19T23:20:39.210Z",
+        "updated_at": "2023-09-19T21:13:21.919Z"
+      },
+      {
+        "id": "ecad3ff0-9add-479d-9cf5-86d476a55db9",
+        "created_at": "2023-09-20T04:52:49.249Z",
+        "updated_at": "2023-09-20T03:24:37.015Z"
+      },
+      {
+        "id": "59723fb2-4558-4f58-8c73-af6321ca26d3",
+        "created_at": "2023-09-19T15:36:14.303Z",
+        "updated_at": "2023-09-19T22:17:58.009Z"
+      },
+      {
+        "id": "23e5ca6c-106c-48f4-aecf-9c0b0654b8ae",
+        "created_at": "2023-09-20T13:22:57.646Z",
+        "updated_at": "2023-09-19T21:39:54.658Z"
+      },
+      {
+        "id": "05d8a56a-eb7d-4747-9eb7-1b0e2a3dd72b",
+        "created_at": "2023-09-19T18:10:08.764Z",
+        "updated_at": "2023-09-19T23:11:57.054Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "fe37fa93-dc7d-45b9-8bd8-f97fec1c1474",
+        "created_at": "2023-09-20T10:37:21.452Z",
+        "updated_at": "2023-09-19T19:39:24.827Z"
+      },
+      {
+        "id": "63f701ac-02af-4e76-87fd-dce670ec7ed4",
+        "created_at": "2023-09-20T03:45:05.538Z",
+        "updated_at": "2023-09-19T23:05:16.869Z"
+      },
+      {
+        "id": "326b81c2-c9e5-4b5d-a103-2e992fbba585",
+        "created_at": "2023-09-20T13:32:24.049Z",
+        "updated_at": "2023-09-20T08:59:51.195Z"
+      },
+      {
+        "id": "e8c8546a-ea63-4b86-b340-a03ee2f7b321",
+        "created_at": "2023-09-20T05:23:34.137Z",
+        "updated_at": "2023-09-19T23:05:25.486Z"
+      },
+      {
+        "id": "a3b75650-6b1e-4391-b883-30c5558f2225",
+        "created_at": "2023-09-20T03:45:58.350Z",
+        "updated_at": "2023-09-19T18:02:46.964Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "5d69a9bb-7a02-4903-af4e-82ebfa9b481e",
+        "created_at": "2023-09-20T12:24:21.296Z",
+        "updated_at": "2023-09-19T15:44:56.711Z"
+      },
+      {
+        "id": "e5a36ead-589a-4078-9c9f-7bc1b2e3794a",
+        "created_at": "2023-09-20T08:47:24.443Z",
+        "updated_at": "2023-09-19T16:25:21.680Z"
+      },
+      {
+        "id": "e5b595ff-7cb9-497b-912e-f045d6ade6e2",
+        "created_at": "2023-09-19T21:53:41.487Z",
+        "updated_at": "2023-09-19T21:35:26.938Z"
+      },
+      {
+        "id": "2bd61a6b-74e6-4357-8897-396a074cc7c7",
+        "created_at": "2023-09-20T03:33:46.881Z",
+        "updated_at": "2023-09-19T17:14:24.561Z"
+      },
+      {
+        "id": "509921f9-2f70-4172-bf8d-ac45ceb1b65e",
+        "created_at": "2023-09-20T04:47:04.520Z",
+        "updated_at": "2023-09-20T13:33:55.770Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "c250614a-ee51-4cc8-8ea0-034423fd9178",
+        "unit_number": 26346,
+        "size": "Small",
+        "availability_status": false,
+        "rent_price": 92162,
+        "last_maintenance_date": "2023-09-20T00:06:30.975Z",
+        "created_at": "2023-09-19T18:06:36.835Z",
+        "updated_at": "2023-09-20T01:00:28.174Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "ea3e0434-9263-42a3-908d-18ea9b8bc3f6",
+        "unit_number": 31559,
+        "size": "Medium",
+        "availability_status": false,
+        "rent_price": 175,
+        "last_maintenance_date": "2023-09-19T23:24:37.710Z",
+        "created_at": "2023-09-19T22:07:48.869Z",
+        "updated_at": "2023-09-20T00:19:52.816Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f1c4bfa9-ece3-45da-b471-31ee84f94911",
+        "unit_number": 67234,
+        "size": "Large",
+        "availability_status": false,
+        "rent_price": 4247,
+        "last_maintenance_date": "2023-09-20T04:10:40.190Z",
+        "created_at": "2023-09-20T04:47:24.464Z",
+        "updated_at": "2023-09-19T22:40:03.232Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "1301b59c-9b3c-4a5a-98fb-8ddadd427f39",
+        "unit_number": 90270,
+        "size": "Extra Large",
+        "availability_status": true,
+        "rent_price": 17557,
+        "last_maintenance_date": "2023-09-19T14:01:38.452Z",
+        "created_at": "2023-09-19T15:03:06.796Z",
+        "updated_at": "2023-09-19T23:04:47.994Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c7679623-9257-4313-963e-1a21dce538d6",
+        "unit_number": 21213,
+        "size": "Custom",
+        "availability_status": true,
+        "rent_price": 42882,
+        "last_maintenance_date": "2023-09-19T17:50:03.680Z",
+        "created_at": "2023-09-19T20:05:06.824Z",
+        "updated_at": "2023-09-19T21:17:58.403Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "fa033072-44b1-4b30-9176-8761dc9f09a8",
+        "start_date": "2023-09-20T08:48:44.789Z",
+        "end_date": "2023-09-20T09:36:54.088Z",
+        "total_cost": 80335,
+        "payment_status": false,
+        "created_at": "2023-09-20T10:19:17.852Z",
+        "updated_at": "2023-09-20T13:22:58.883Z",
+        "storage_unit_id": "1301b59c-9b3c-4a5a-98fb-8ddadd427f39",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "157230c8-b377-416a-92e0-094c94e52282",
+        "start_date": "2023-09-19T23:07:14.675Z",
+        "end_date": "2023-09-20T01:39:38.009Z",
+        "total_cost": 70043,
+        "payment_status": true,
+        "created_at": "2023-09-19T23:00:49.652Z",
+        "updated_at": "2023-09-19T20:14:15.772Z",
+        "storage_unit_id": "f1c4bfa9-ece3-45da-b471-31ee84f94911",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ffdc24e-726c-4c52-b5b9-23d41b208602",
+        "start_date": "2023-09-19T21:59:34.335Z",
+        "end_date": "2023-09-20T04:51:19.881Z",
+        "total_cost": 25923,
+        "payment_status": false,
+        "created_at": "2023-09-19T23:15:09.553Z",
+        "updated_at": "2023-09-20T07:48:44.450Z",
+        "storage_unit_id": "f1c4bfa9-ece3-45da-b471-31ee84f94911",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a913401d-fb2f-461d-9afe-5de04d606e6a",
+        "start_date": "2023-09-20T04:32:05.916Z",
+        "end_date": "2023-09-20T11:19:01.267Z",
+        "total_cost": 78367,
+        "payment_status": true,
+        "created_at": "2023-09-20T04:13:45.079Z",
+        "updated_at": "2023-09-19T19:36:10.604Z",
+        "storage_unit_id": "ea3e0434-9263-42a3-908d-18ea9b8bc3f6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8bb4d5ca-73bc-4e0b-b7a2-5ce58940af91",
+        "start_date": "2023-09-19T18:14:57.355Z",
+        "end_date": "2023-09-20T03:29:44.820Z",
+        "total_cost": 1930,
+        "payment_status": false,
+        "created_at": "2023-09-20T06:59:24.780Z",
+        "updated_at": "2023-09-19T21:59:44.580Z",
+        "storage_unit_id": "ea3e0434-9263-42a3-908d-18ea9b8bc3f6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "3f1fea42-6c79-4311-8dbb-63fd31a16341",
+        "maintenance_date": "2023-09-20T09:41:25.199Z",
+        "maintenance_type": "Routine Inspection",
+        "description": "Performed regular inspection of equipment",
+        "cost": 8545,
+        "created_at": "2023-09-19T22:03:32.183Z",
+        "updated_at": "2023-09-20T06:22:14.007Z",
+        "storage_unit_id": "1301b59c-9b3c-4a5a-98fb-8ddadd427f39"
+      },
+      {
+        "id": "2fdbca20-88e4-4406-ae98-2d45471497d2",
+        "maintenance_date": "2023-09-19T15:29:24.647Z",
+        "maintenance_type": "Emergency Repair",
+        "description": "Responded to urgent repair request",
+        "cost": 60860,
+        "created_at": "2023-09-19T22:23:40.478Z",
+        "updated_at": "2023-09-19T18:11:20.548Z",
+        "storage_unit_id": "f1c4bfa9-ece3-45da-b471-31ee84f94911"
+      },
+      {
+        "id": "e7d40588-7b0d-41ee-ad38-a25c5d054c2d",
+        "maintenance_date": "2023-09-19T15:43:12.911Z",
+        "maintenance_type": "Preventive Maintenance",
+        "description": "Scheduled preventive maintenance for all units",
+        "cost": 38190,
+        "created_at": "2023-09-20T10:06:44.415Z",
+        "updated_at": "2023-09-20T00:27:16.898Z",
+        "storage_unit_id": "1301b59c-9b3c-4a5a-98fb-8ddadd427f39"
+      },
+      {
+        "id": "90aa138d-9dd6-446b-9564-97e7316f19d3",
+        "maintenance_date": "2023-09-20T02:09:52.900Z",
+        "maintenance_type": "Equipment Replacement",
+        "description": "Replaced faulty equipment with new one",
+        "cost": 74876,
+        "created_at": "2023-09-20T02:09:48.273Z",
+        "updated_at": "2023-09-19T23:16:52.219Z",
+        "storage_unit_id": "ea3e0434-9263-42a3-908d-18ea9b8bc3f6"
+      },
+      {
+        "id": "1b3727b8-7c13-4761-9a77-53bd5ed8b1b0",
+        "maintenance_date": "2023-09-19T17:49:43.497Z",
+        "maintenance_type": "System Upgrade",
+        "description": "Upgraded system to improve efficiency",
+        "cost": 41499,
+        "created_at": "2023-09-20T01:49:59.564Z",
+        "updated_at": "2023-09-20T00:41:22.388Z",
+        "storage_unit_id": "ea3e0434-9263-42a3-908d-18ea9b8bc3f6"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "217e346e-ff9e-472f-aac9-9106626842e3",
+        "item_name": "Chair",
+        "quantity": 97280,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T12:07:27.375Z",
+        "created_at": "2023-09-19T21:24:41.225Z",
+        "updated_at": "2023-09-20T00:46:07.210Z",
+        "storage_unit_id": "c7679623-9257-4313-963e-1a21dce538d6"
+      },
+      {
+        "id": "530ca56d-eb3d-42d8-b555-aec7712dccf3",
+        "item_name": "Table",
+        "quantity": 74030,
+        "location": "Office",
+        "last_updated": "2023-09-19T21:53:44.770Z",
+        "created_at": "2023-09-19T17:16:15.647Z",
+        "updated_at": "2023-09-20T10:00:36.315Z",
+        "storage_unit_id": "1301b59c-9b3c-4a5a-98fb-8ddadd427f39"
+      },
+      {
+        "id": "e6e88478-10e8-41c9-878d-74ce1539a13f",
+        "item_name": "Laptop",
+        "quantity": 44923,
+        "location": "Store",
+        "last_updated": "2023-09-19T18:09:41.669Z",
+        "created_at": "2023-09-19T14:54:26.113Z",
+        "updated_at": "2023-09-20T12:58:36.730Z",
+        "storage_unit_id": "f1c4bfa9-ece3-45da-b471-31ee84f94911"
+      },
+      {
+        "id": "08447bd1-63cb-41ad-916e-0d5ed1e51220",
+        "item_name": "Printer",
+        "quantity": 10466,
+        "location": "Conference Room",
+        "last_updated": "2023-09-20T04:45:02.251Z",
+        "created_at": "2023-09-20T13:25:41.177Z",
+        "updated_at": "2023-09-20T07:42:45.415Z",
+        "storage_unit_id": "c7679623-9257-4313-963e-1a21dce538d6"
+      },
+      {
+        "id": "1a007206-7f64-4318-9ef4-6cc59af6994e",
+        "item_name": "Monitor",
+        "quantity": 35198,
+        "location": "Reception Area",
+        "last_updated": "2023-09-19T16:29:17.108Z",
+        "created_at": "2023-09-19T14:02:12.774Z",
+        "updated_at": "2023-09-20T00:42:47.758Z",
+        "storage_unit_id": "ea3e0434-9263-42a3-908d-18ea9b8bc3f6"
+      }
+    ],
+    "customer": [
+      {
+        "id": "621204b5-a642-4e1b-b018-e1f015355ee8",
+        "created_at": "2023-09-20T05:39:15.763Z",
+        "updated_at": "2023-09-20T06:46:38.350Z"
+      },
+      {
+        "id": "3faaf308-09d0-463d-8be3-14473434b118",
+        "created_at": "2023-09-20T03:27:10.285Z",
+        "updated_at": "2023-09-19T16:35:19.686Z"
+      },
+      {
+        "id": "62a80b84-61cc-47ea-85a3-9634661b1de4",
+        "created_at": "2023-09-19T23:17:32.115Z",
+        "updated_at": "2023-09-20T00:20:07.013Z"
+      },
+      {
+        "id": "61033f19-b05e-4a76-a75c-1fa9e915c0d8",
+        "created_at": "2023-09-20T13:20:24.359Z",
+        "updated_at": "2023-09-20T03:06:18.950Z"
+      },
+      {
+        "id": "eabafd19-ac5a-437b-a94b-c831ca841c16",
+        "created_at": "2023-09-20T07:09:52.319Z",
+        "updated_at": "2023-09-19T18:27:56.398Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "1e332f0f-6662-422f-92fa-4922c37e415b",
+        "created_at": "2023-09-20T00:13:19.822Z",
+        "updated_at": "2023-09-19T23:25:02.904Z"
+      },
+      {
+        "id": "c36e97e3-cf16-48f5-901f-681fbadcd4e3",
+        "created_at": "2023-09-20T07:55:41.455Z",
+        "updated_at": "2023-09-20T11:31:52.680Z"
+      },
+      {
+        "id": "e5fe1c91-6097-4449-9c3a-bc5339d9cfd9",
+        "created_at": "2023-09-19T19:02:11.414Z",
+        "updated_at": "2023-09-19T19:09:00.400Z"
+      },
+      {
+        "id": "48407b3e-f316-4fd9-a318-f3f91ff6a40c",
+        "created_at": "2023-09-19T22:14:29.829Z",
+        "updated_at": "2023-09-20T08:40:14.806Z"
+      },
+      {
+        "id": "21d1f54a-f500-432a-848d-136e4aa50251",
+        "created_at": "2023-09-20T05:10:01.800Z",
+        "updated_at": "2023-09-19T17:32:56.148Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7e3868b4-f3a1-45a6-9a5b-1eafa62860e7",
+        "email": "Mekhi49@gmail.com",
+        "firstName": "Erick",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17365894",
+        "tenantId": null
+      },
+      {
+        "reference": "49265f68-34bb-4b68-b4ed-51f7d785d1de",
+        "email": "Mary_Dach-McCullough41@yahoo.com",
+        "firstName": "Joaquin",
+        "lastName": "Spencer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/120.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a1fe0f8b-5daa-4816-90f9-d24718881504",
+        "email": "Nona.Ratke@hotmail.com",
+        "firstName": "Karina",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72804200",
+        "tenantId": null
+      },
+      {
+        "reference": "0a290b06-be7b-475b-962b-d8c8b686cf0f",
+        "email": "Dave30@gmail.com",
+        "firstName": "Khalil",
+        "lastName": "Cronin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49522320",
+        "tenantId": null
+      },
+      {
+        "reference": "79f23e2d-b266-4ca9-a8bb-df677f0fe664",
+        "email": "Dannie61@yahoo.com",
+        "firstName": "Lyla",
+        "lastName": "Olson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "43c393aa-c12b-4322-b10f-b21787eb57a5",
+        "created_at": "2023-09-20T12:37:32.901Z",
+        "updated_at": "2023-09-20T02:33:38.147Z"
+      },
+      {
+        "id": "6355c7c0-547c-4ea7-938a-e09242ab449b",
+        "created_at": "2023-09-20T13:24:20.089Z",
+        "updated_at": "2023-09-20T04:50:20.178Z"
+      },
+      {
+        "id": "9cf5c8a4-43ae-45e7-9406-adccd1fda873",
+        "created_at": "2023-09-19T23:22:01.638Z",
+        "updated_at": "2023-09-20T07:29:42.990Z"
+      },
+      {
+        "id": "72c479e7-9819-41f1-b5d8-130e5ed56a57",
+        "created_at": "2023-09-20T02:18:53.887Z",
+        "updated_at": "2023-09-20T08:14:33.974Z"
+      },
+      {
+        "id": "cd8d6e08-7870-4599-bf46-83c0efe8554a",
+        "created_at": "2023-09-20T00:51:05.830Z",
+        "updated_at": "2023-09-19T16:55:48.423Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "409db6f2-f808-45c6-9ee3-8bdc3e201c3c",
+        "created_at": "2023-09-19T21:08:55.463Z",
+        "updated_at": "2023-09-19T15:25:17.445Z"
+      },
+      {
+        "id": "4ec22b7a-2b55-4797-b302-162468434e3a",
+        "created_at": "2023-09-19T18:40:53.977Z",
+        "updated_at": "2023-09-19T23:40:26.867Z"
+      },
+      {
+        "id": "b125e424-6ca7-426f-9280-085d8d828d14",
+        "created_at": "2023-09-20T08:50:37.563Z",
+        "updated_at": "2023-09-19T22:02:56.516Z"
+      },
+      {
+        "id": "6c2ca61b-ee05-4f03-8146-fd4fbd4bf111",
+        "created_at": "2023-09-19T17:16:34.170Z",
+        "updated_at": "2023-09-20T01:12:14.658Z"
+      },
+      {
+        "id": "7b72efec-8dc2-4923-b2b4-0214cde2f85a",
+        "created_at": "2023-09-20T08:13:13.640Z",
+        "updated_at": "2023-09-19T16:04:29.651Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "e3d692f4-a2fd-490b-acae-7b3b6a564b00",
+        "created_at": "2023-09-20T12:07:15.790Z",
+        "updated_at": "2023-09-20T01:51:04.161Z"
+      },
+      {
+        "id": "452f8338-dfa4-4d74-bf6b-0600439e8667",
+        "created_at": "2023-09-19T23:31:02.241Z",
+        "updated_at": "2023-09-19T22:35:24.155Z"
+      },
+      {
+        "id": "fa17e80d-0005-43ca-988d-b0f172f7a500",
+        "created_at": "2023-09-19T20:14:03.941Z",
+        "updated_at": "2023-09-20T09:02:35.934Z"
+      },
+      {
+        "id": "53f4b966-fe3b-4e10-8426-ee2e0535a4da",
+        "created_at": "2023-09-20T03:31:29.031Z",
+        "updated_at": "2023-09-19T23:46:12.798Z"
+      },
+      {
+        "id": "e2da3a28-9b80-440f-8b90-9ed032289eb9",
+        "created_at": "2023-09-19T23:11:25.004Z",
+        "updated_at": "2023-09-20T06:44:19.726Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "26e5fa55-ba30-4e14-b61a-343a4a2487f3",
+        "unit_number": 61275,
+        "size": "Small",
+        "availability_status": true,
+        "rent_price": 2594,
+        "last_maintenance_date": "2023-09-19T16:55:00.955Z",
+        "created_at": "2023-09-19T17:00:22.825Z",
+        "updated_at": "2023-09-20T01:04:55.201Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8604f048-3069-4bd8-9789-b050a77e6069",
+        "unit_number": 89333,
+        "size": "Medium",
+        "availability_status": false,
+        "rent_price": 19280,
+        "last_maintenance_date": "2023-09-20T04:33:27.575Z",
+        "created_at": "2023-09-19T18:12:16.894Z",
+        "updated_at": "2023-09-20T07:45:22.186Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "896484b2-3aa7-46d2-967f-d027078505a6",
+        "unit_number": 40526,
+        "size": "Large",
+        "availability_status": true,
+        "rent_price": 70854,
+        "last_maintenance_date": "2023-09-20T02:54:13.330Z",
+        "created_at": "2023-09-19T15:00:28.930Z",
+        "updated_at": "2023-09-20T04:02:51.642Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "9144c241-8eaf-4ed2-8a0a-30f664e4938b",
+        "unit_number": 11791,
+        "size": "Extra Large",
+        "availability_status": false,
+        "rent_price": 27133,
+        "last_maintenance_date": "2023-09-20T01:29:16.217Z",
+        "created_at": "2023-09-19T21:38:26.051Z",
+        "updated_at": "2023-09-20T09:12:40.416Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "933ed7a6-eb34-4ed8-98fc-9845f7b1a1f6",
+        "unit_number": 53095,
+        "size": "Custom",
+        "availability_status": true,
+        "rent_price": 50910,
+        "last_maintenance_date": "2023-09-20T12:10:11.020Z",
+        "created_at": "2023-09-19T14:14:19.653Z",
+        "updated_at": "2023-09-19T21:56:23.027Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "a7a8828a-1a42-4812-bb5b-c056eb9bf135",
+        "start_date": "2023-09-20T10:11:13.758Z",
+        "end_date": "2023-09-20T12:11:58.622Z",
+        "total_cost": 1875,
+        "payment_status": true,
+        "created_at": "2023-09-20T11:14:24.653Z",
+        "updated_at": "2023-09-19T16:27:52.560Z",
+        "storage_unit_id": "896484b2-3aa7-46d2-967f-d027078505a6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d66ce2e3-7651-4f05-8435-eabcbc69846b",
+        "start_date": "2023-09-20T12:37:12.779Z",
+        "end_date": "2023-09-19T21:05:59.146Z",
+        "total_cost": 49445,
+        "payment_status": false,
+        "created_at": "2023-09-20T06:25:49.232Z",
+        "updated_at": "2023-09-20T03:13:04.943Z",
+        "storage_unit_id": "9144c241-8eaf-4ed2-8a0a-30f664e4938b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "638fa61d-7e22-4c99-9073-f1cd968e3011",
+        "start_date": "2023-09-20T04:34:56.433Z",
+        "end_date": "2023-09-20T05:03:40.586Z",
+        "total_cost": 125,
+        "payment_status": false,
+        "created_at": "2023-09-20T10:07:37.409Z",
+        "updated_at": "2023-09-19T13:51:29.202Z",
+        "storage_unit_id": "933ed7a6-eb34-4ed8-98fc-9845f7b1a1f6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3839909-02c5-4d8a-b7f1-e46be7e9c6f0",
+        "start_date": "2023-09-20T11:46:16.262Z",
+        "end_date": "2023-09-19T14:38:21.308Z",
+        "total_cost": 39088,
+        "payment_status": true,
+        "created_at": "2023-09-19T22:48:16.698Z",
+        "updated_at": "2023-09-19T14:42:36.669Z",
+        "storage_unit_id": "896484b2-3aa7-46d2-967f-d027078505a6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e689ae9-bc45-4468-85ba-25dc0b6cbacc",
+        "start_date": "2023-09-19T18:52:39.644Z",
+        "end_date": "2023-09-20T11:40:21.989Z",
+        "total_cost": 68170,
+        "payment_status": false,
+        "created_at": "2023-09-19T21:39:55.061Z",
+        "updated_at": "2023-09-19T21:12:04.833Z",
+        "storage_unit_id": "26e5fa55-ba30-4e14-b61a-343a4a2487f3",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "b8b60518-f965-4d60-8974-408677414407",
+        "maintenance_date": "2023-09-20T10:54:31.165Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance of equipment",
+        "cost": 31537,
+        "created_at": "2023-09-19T16:00:13.336Z",
+        "updated_at": "2023-09-20T04:08:10.113Z",
+        "storage_unit_id": "933ed7a6-eb34-4ed8-98fc-9845f7b1a1f6"
+      },
+      {
+        "id": "44313a92-f312-44e9-8aff-035108552138",
+        "maintenance_date": "2023-09-20T09:56:34.849Z",
+        "maintenance_type": "Emergency",
+        "description": "Urgent repair work",
+        "cost": 86205,
+        "created_at": "2023-09-20T06:10:06.354Z",
+        "updated_at": "2023-09-20T08:03:34.568Z",
+        "storage_unit_id": "933ed7a6-eb34-4ed8-98fc-9845f7b1a1f6"
+      },
+      {
+        "id": "51b56c86-1b19-4857-a9d9-1a60050db953",
+        "maintenance_date": "2023-09-19T14:46:44.108Z",
+        "maintenance_type": "Preventive",
+        "description": "Proactive maintenance to prevent issues",
+        "cost": 20726,
+        "created_at": "2023-09-19T17:48:19.183Z",
+        "updated_at": "2023-09-20T02:41:44.464Z",
+        "storage_unit_id": "8604f048-3069-4bd8-9789-b050a77e6069"
+      },
+      {
+        "id": "9f5e8b1d-0952-4308-970c-bab67b8aa4ca",
+        "maintenance_date": "2023-09-20T13:28:39.552Z",
+        "maintenance_type": "Scheduled",
+        "description": "Planned maintenance activities",
+        "cost": 92088,
+        "created_at": "2023-09-20T03:03:34.356Z",
+        "updated_at": "2023-09-20T00:02:11.067Z",
+        "storage_unit_id": "8604f048-3069-4bd8-9789-b050a77e6069"
+      },
+      {
+        "id": "40f9db03-1d49-4d5f-9219-8ae8cf93a2bb",
+        "maintenance_date": "2023-09-20T07:46:36.755Z",
+        "maintenance_type": "Corrective",
+        "description": "Fixing issues as they arise",
+        "cost": 24082,
+        "created_at": "2023-09-20T12:51:34.752Z",
+        "updated_at": "2023-09-20T07:56:53.139Z",
+        "storage_unit_id": "896484b2-3aa7-46d2-967f-d027078505a6"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "f2061c94-e42c-4bf8-86e6-4c2bd067ed26",
+        "item_name": "Chair",
+        "quantity": 23060,
+        "location": "Office",
+        "last_updated": "2023-09-19T14:35:53.474Z",
+        "created_at": "2023-09-20T09:05:32.705Z",
+        "updated_at": "2023-09-20T10:27:20.614Z",
+        "storage_unit_id": "8604f048-3069-4bd8-9789-b050a77e6069"
+      },
+      {
+        "id": "a2490e44-3c1f-47c0-bc41-f8bcb5639816",
+        "item_name": "Table",
+        "quantity": 28148,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T12:50:35.592Z",
+        "created_at": "2023-09-20T04:25:33.078Z",
+        "updated_at": "2023-09-20T10:38:33.193Z",
+        "storage_unit_id": "933ed7a6-eb34-4ed8-98fc-9845f7b1a1f6"
+      },
+      {
+        "id": "e54ed129-82b1-427a-a3db-151ee4e1a311",
+        "item_name": "Laptop",
+        "quantity": 42269,
+        "location": "Store",
+        "last_updated": "2023-09-20T11:25:44.479Z",
+        "created_at": "2023-09-20T06:40:10.962Z",
+        "updated_at": "2023-09-20T09:18:38.161Z",
+        "storage_unit_id": "933ed7a6-eb34-4ed8-98fc-9845f7b1a1f6"
+      },
+      {
+        "id": "86dc0c1b-ee0c-4c68-afbb-472649683008",
+        "item_name": "Printer",
+        "quantity": 56317,
+        "location": "Home",
+        "last_updated": "2023-09-19T18:25:27.922Z",
+        "created_at": "2023-09-20T10:44:06.176Z",
+        "updated_at": "2023-09-20T00:54:45.329Z",
+        "storage_unit_id": "896484b2-3aa7-46d2-967f-d027078505a6"
+      },
+      {
+        "id": "32a31c59-31f3-43fb-b4fb-5cfa6ae8108a",
+        "item_name": "Phone",
+        "quantity": 1927,
+        "location": "Factory",
+        "last_updated": "2023-09-19T19:38:56.693Z",
+        "created_at": "2023-09-20T10:49:47.135Z",
+        "updated_at": "2023-09-19T21:34:01.116Z",
+        "storage_unit_id": "896484b2-3aa7-46d2-967f-d027078505a6"
+      }
+    ],
+    "customer": [
+      {
+        "id": "10834120-3cbb-43d9-8c58-28be2635a282",
+        "created_at": "2023-09-19T15:03:51.907Z",
+        "updated_at": "2023-09-19T21:26:59.335Z"
+      },
+      {
+        "id": "15d13db2-4364-4e4e-91e8-19bfc4233548",
+        "created_at": "2023-09-20T03:54:39.551Z",
+        "updated_at": "2023-09-19T21:43:10.624Z"
+      },
+      {
+        "id": "70f020fa-b921-4bfb-bde4-885e3b80a727",
+        "created_at": "2023-09-20T05:38:54.495Z",
+        "updated_at": "2023-09-20T06:34:46.443Z"
+      },
+      {
+        "id": "b04c106f-b958-4f52-a2a2-f9ba7ad6440b",
+        "created_at": "2023-09-20T02:45:10.740Z",
+        "updated_at": "2023-09-19T14:53:36.751Z"
+      },
+      {
+        "id": "82e05e4e-22fd-40bb-a253-ef89be38b46b",
+        "created_at": "2023-09-20T12:44:01.005Z",
+        "updated_at": "2023-09-20T10:18:56.683Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "59a3df27-ab84-4262-a83f-3a1ab1dee110",
+        "created_at": "2023-09-19T18:05:20.970Z",
+        "updated_at": "2023-09-19T17:54:09.454Z"
+      },
+      {
+        "id": "64264cf9-a564-43b2-aa70-a634efedaf5e",
+        "created_at": "2023-09-19T19:25:34.529Z",
+        "updated_at": "2023-09-20T04:40:25.857Z"
+      },
+      {
+        "id": "889931a2-b85a-4011-af90-0d3cb6cf1c1d",
+        "created_at": "2023-09-19T22:47:40.176Z",
+        "updated_at": "2023-09-20T02:44:20.346Z"
+      },
+      {
+        "id": "e9dcb629-8191-4dbd-9cc7-9e3da3ae75d7",
+        "created_at": "2023-09-19T15:49:13.485Z",
+        "updated_at": "2023-09-19T14:04:03.037Z"
+      },
+      {
+        "id": "54fa10b7-6cb0-4a21-a040-0e1a8450460c",
+        "created_at": "2023-09-20T08:23:37.901Z",
+        "updated_at": "2023-09-20T07:36:37.762Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ffee510a-7465-41cd-abeb-c6d22f935228",
+        "email": "Cristina_Wiza@hotmail.com",
+        "firstName": "Reymundo",
+        "lastName": "Dach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40550331",
+        "tenantId": null
+      },
+      {
+        "reference": "a029b6fc-ba40-4a1d-b5e0-9df4b010c60f",
+        "email": "Sandra.McDermott@gmail.com",
+        "firstName": "Elise",
+        "lastName": "Becker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/330.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b71426fd-0d4b-4efc-b2c3-3757dc4ee192",
+        "email": "Rolando.Daugherty-Gislason@gmail.com",
+        "firstName": "Francisco",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1113.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c7116ad2-b37c-4a12-ac17-830408723f63",
+        "email": "Lonny.Ward@yahoo.com",
+        "firstName": "Lila",
+        "lastName": "Hodkiewicz-Labadie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87470200",
+        "tenantId": null
+      },
+      {
+        "reference": "260673e7-54dc-4b29-bd35-c6292086dc5f",
+        "email": "Clair.Turcotte71@hotmail.com",
+        "firstName": "Carol",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/373.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "f877b4e3-cf9f-481d-bbe1-183730d8701b",
+        "created_at": "2023-09-20T12:51:01.239Z",
+        "updated_at": "2023-09-19T19:00:34.375Z"
+      },
+      {
+        "id": "c1a58051-2453-4530-a381-decc00ebbc8e",
+        "created_at": "2023-09-19T23:18:01.861Z",
+        "updated_at": "2023-09-20T08:04:47.735Z"
+      },
+      {
+        "id": "1f34b5ac-db8d-48f7-8d9b-d12f7c5d69e7",
+        "created_at": "2023-09-19T20:55:27.867Z",
+        "updated_at": "2023-09-19T16:43:09.930Z"
+      },
+      {
+        "id": "eb6f1427-dff5-4f5d-91e7-d575ba3fc1ff",
+        "created_at": "2023-09-20T01:53:47.376Z",
+        "updated_at": "2023-09-20T09:34:12.188Z"
+      },
+      {
+        "id": "20837cec-54d9-4748-b39d-bbab086d10cf",
+        "created_at": "2023-09-20T09:29:24.328Z",
+        "updated_at": "2023-09-19T23:28:33.215Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "070b1484-aa7f-4c03-b14c-c2d755f0a2ef",
+        "created_at": "2023-09-19T18:19:26.564Z",
+        "updated_at": "2023-09-20T04:54:03.508Z"
+      },
+      {
+        "id": "72977853-e4ca-49a3-8901-fdfe2e118940",
+        "created_at": "2023-09-19T20:23:56.793Z",
+        "updated_at": "2023-09-20T02:59:37.991Z"
+      },
+      {
+        "id": "f973d501-ccc7-4181-8239-7eef442513c2",
+        "created_at": "2023-09-19T22:57:57.386Z",
+        "updated_at": "2023-09-20T03:19:41.915Z"
+      },
+      {
+        "id": "200db577-b80c-49a1-9c3a-3c3b83acf2d8",
+        "created_at": "2023-09-20T00:31:51.505Z",
+        "updated_at": "2023-09-20T10:28:37.834Z"
+      },
+      {
+        "id": "91cc2d16-221f-4960-8bf9-d8f9d5eb75c4",
+        "created_at": "2023-09-19T16:37:09.408Z",
+        "updated_at": "2023-09-20T11:41:47.669Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "59980757-0783-4bd5-b498-8a8c0498b5d4",
+        "created_at": "2023-09-20T07:27:20.691Z",
+        "updated_at": "2023-09-19T20:12:44.558Z"
+      },
+      {
+        "id": "1ecf2769-9c29-455e-ade1-1bd9141b1aef",
+        "created_at": "2023-09-20T12:11:45.063Z",
+        "updated_at": "2023-09-20T12:47:34.567Z"
+      },
+      {
+        "id": "78ebc73c-4859-490d-8599-37f37d307097",
+        "created_at": "2023-09-19T20:33:00.824Z",
+        "updated_at": "2023-09-20T04:09:35.173Z"
+      },
+      {
+        "id": "2a39c982-a987-4ceb-aea3-14eb0b52ab21",
+        "created_at": "2023-09-20T06:37:48.676Z",
+        "updated_at": "2023-09-19T23:57:43.999Z"
+      },
+      {
+        "id": "dca51bfc-13c2-4370-9ddf-85fbe1015c54",
+        "created_at": "2023-09-20T01:46:24.670Z",
+        "updated_at": "2023-09-19T16:51:44.904Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "f6d5f4ec-b60e-473a-9816-a141c93a0e52",
+        "unit_number": 96945,
+        "size": "Small",
+        "availability_status": false,
+        "rent_price": 85955,
+        "last_maintenance_date": "2023-09-19T21:41:44.201Z",
+        "created_at": "2023-09-19T18:37:21.335Z",
+        "updated_at": "2023-09-20T10:42:49.584Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "fa7a208d-f938-4e16-85c0-40e6d193072d",
+        "unit_number": 2034,
+        "size": "Medium",
+        "availability_status": false,
+        "rent_price": 89757,
+        "last_maintenance_date": "2023-09-20T06:34:18.576Z",
+        "created_at": "2023-09-20T05:50:39.541Z",
+        "updated_at": "2023-09-20T02:44:50.643Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "882970ba-e7e2-4899-b721-04d5823f35db",
+        "unit_number": 61977,
+        "size": "Large",
+        "availability_status": true,
+        "rent_price": 26404,
+        "last_maintenance_date": "2023-09-19T16:59:34.681Z",
+        "created_at": "2023-09-20T01:40:06.743Z",
+        "updated_at": "2023-09-20T12:22:14.748Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f9a92264-338a-44a3-91fc-a05cae6367fb",
+        "unit_number": 12917,
+        "size": "Extra Large",
+        "availability_status": false,
+        "rent_price": 47952,
+        "last_maintenance_date": "2023-09-19T15:15:43.664Z",
+        "created_at": "2023-09-20T09:09:37.658Z",
+        "updated_at": "2023-09-19T20:09:57.655Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "206d6cda-1089-40aa-8d83-1ed0fd6fd053",
+        "unit_number": 91140,
+        "size": "Jumbo",
+        "availability_status": true,
+        "rent_price": 90161,
+        "last_maintenance_date": "2023-09-19T16:03:13.020Z",
+        "created_at": "2023-09-20T10:04:47.100Z",
+        "updated_at": "2023-09-20T11:42:53.295Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "6aaa98be-c641-4512-9b07-cb1f3460e2c2",
+        "start_date": "2023-09-19T23:31:24.625Z",
+        "end_date": "2023-09-20T09:00:49.081Z",
+        "total_cost": 24506,
+        "payment_status": true,
+        "created_at": "2023-09-20T10:32:29.007Z",
+        "updated_at": "2023-09-20T04:46:16.698Z",
+        "storage_unit_id": "882970ba-e7e2-4899-b721-04d5823f35db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f5a003a-252f-4fc7-bd17-6722008bfb66",
+        "start_date": "2023-09-19T16:16:42.368Z",
+        "end_date": "2023-09-20T13:15:00.725Z",
+        "total_cost": 37843,
+        "payment_status": false,
+        "created_at": "2023-09-19T15:26:51.667Z",
+        "updated_at": "2023-09-19T17:06:22.462Z",
+        "storage_unit_id": "206d6cda-1089-40aa-8d83-1ed0fd6fd053",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f0ff4b25-2bb4-4322-8a2a-73af88be318b",
+        "start_date": "2023-09-20T10:23:01.326Z",
+        "end_date": "2023-09-20T09:41:28.056Z",
+        "total_cost": 471,
+        "payment_status": true,
+        "created_at": "2023-09-19T16:41:35.893Z",
+        "updated_at": "2023-09-19T13:52:56.941Z",
+        "storage_unit_id": "fa7a208d-f938-4e16-85c0-40e6d193072d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f664d24-0af8-4d45-bada-82e4d6bb04e5",
+        "start_date": "2023-09-19T23:32:58.385Z",
+        "end_date": "2023-09-20T13:07:58.418Z",
+        "total_cost": 87053,
+        "payment_status": true,
+        "created_at": "2023-09-19T15:28:00.104Z",
+        "updated_at": "2023-09-20T09:32:53.477Z",
+        "storage_unit_id": "882970ba-e7e2-4899-b721-04d5823f35db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f148b6c-18c7-423b-b752-d073e9b810f3",
+        "start_date": "2023-09-20T11:16:50.538Z",
+        "end_date": "2023-09-19T22:51:40.832Z",
+        "total_cost": 53065,
+        "payment_status": false,
+        "created_at": "2023-09-19T21:39:32.567Z",
+        "updated_at": "2023-09-19T19:23:57.099Z",
+        "storage_unit_id": "206d6cda-1089-40aa-8d83-1ed0fd6fd053",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "addb1038-ed1a-47a0-be33-79d7e13677bf",
+        "maintenance_date": "2023-09-19T19:16:44.989Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance to ensure optimal performance",
+        "cost": 34730,
+        "created_at": "2023-09-20T06:08:58.045Z",
+        "updated_at": "2023-09-20T13:37:39.248Z",
+        "storage_unit_id": "f6d5f4ec-b60e-473a-9816-a141c93a0e52"
+      },
+      {
+        "id": "f48f94ab-5782-4830-99fb-826756ca7314",
+        "maintenance_date": "2023-09-19T15:31:53.330Z",
+        "maintenance_type": "Preventive",
+        "description": "Proactive measures to prevent breakdowns",
+        "cost": 11141,
+        "created_at": "2023-09-20T00:55:10.817Z",
+        "updated_at": "2023-09-20T01:04:33.597Z",
+        "storage_unit_id": "f9a92264-338a-44a3-91fc-a05cae6367fb"
+      },
+      {
+        "id": "18c6f25d-862c-4a5d-886d-0802af37b466",
+        "maintenance_date": "2023-09-19T17:51:15.109Z",
+        "maintenance_type": "Corrective",
+        "description": "Fixing issues as they arise",
+        "cost": 2307,
+        "created_at": "2023-09-19T23:16:18.231Z",
+        "updated_at": "2023-09-19T22:21:41.012Z",
+        "storage_unit_id": "fa7a208d-f938-4e16-85c0-40e6d193072d"
+      },
+      {
+        "id": "90b406db-54ad-40c5-a185-5f0e500ceaea",
+        "maintenance_date": "2023-09-20T03:08:43.410Z",
+        "maintenance_type": "Emergency",
+        "description": "Urgent repairs needed immediately",
+        "cost": 85715,
+        "created_at": "2023-09-19T18:24:32.371Z",
+        "updated_at": "2023-09-20T02:52:07.421Z",
+        "storage_unit_id": "206d6cda-1089-40aa-8d83-1ed0fd6fd053"
+      },
+      {
+        "id": "df60bb37-64f7-4bb5-bfea-a7c37db53a00",
+        "maintenance_date": "2023-09-19T18:50:14.626Z",
+        "maintenance_type": "Scheduled",
+        "description": "Planned maintenance for future enhancements",
+        "cost": 15980,
+        "created_at": "2023-09-20T06:44:31.810Z",
+        "updated_at": "2023-09-19T16:16:04.026Z",
+        "storage_unit_id": "882970ba-e7e2-4899-b721-04d5823f35db"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "4411f725-7302-45b1-8221-e3712bf4da7c",
+        "item_name": "Widget",
+        "quantity": 62230,
+        "location": "Warehouse A",
+        "last_updated": "2023-09-19T21:09:01.522Z",
+        "created_at": "2023-09-20T01:17:24.118Z",
+        "updated_at": "2023-09-20T07:36:42.858Z",
+        "storage_unit_id": "882970ba-e7e2-4899-b721-04d5823f35db"
+      },
+      {
+        "id": "d3a88c28-8a37-4621-ab83-ff25a7a2e7b3",
+        "item_name": "Gadget",
+        "quantity": 24066,
+        "location": "Warehouse B",
+        "last_updated": "2023-09-20T06:31:36.096Z",
+        "created_at": "2023-09-20T03:22:14.154Z",
+        "updated_at": "2023-09-20T11:55:21.483Z",
+        "storage_unit_id": "f6d5f4ec-b60e-473a-9816-a141c93a0e52"
+      },
+      {
+        "id": "5632c316-eb18-4870-90fe-8bb0e8c32fa7",
+        "item_name": "Tool",
+        "quantity": 31136,
+        "location": "Storage Room",
+        "last_updated": "2023-09-20T13:04:47.305Z",
+        "created_at": "2023-09-19T21:23:18.371Z",
+        "updated_at": "2023-09-20T06:51:11.494Z",
+        "storage_unit_id": "882970ba-e7e2-4899-b721-04d5823f35db"
+      },
+      {
+        "id": "fdb6d585-2183-4ddc-8e09-c75702605a63",
+        "item_name": "Device",
+        "quantity": 54945,
+        "location": "Shelf 1",
+        "last_updated": "2023-09-20T00:24:07.501Z",
+        "created_at": "2023-09-20T04:14:03.222Z",
+        "updated_at": "2023-09-19T16:19:51.040Z",
+        "storage_unit_id": "f6d5f4ec-b60e-473a-9816-a141c93a0e52"
+      },
+      {
+        "id": "3f7eca9f-c352-4c5e-9f84-c836579459ad",
+        "item_name": "Equipment",
+        "quantity": 98881,
+        "location": "Cabinet 2",
+        "last_updated": "2023-09-20T06:00:46.428Z",
+        "created_at": "2023-09-20T12:38:12.761Z",
+        "updated_at": "2023-09-19T21:58:03.506Z",
+        "storage_unit_id": "f9a92264-338a-44a3-91fc-a05cae6367fb"
+      }
+    ],
+    "customer": [
+      {
+        "id": "1daee3dc-40e0-4e51-b055-e128afc4f166",
+        "created_at": "2023-09-20T04:55:20.112Z",
+        "updated_at": "2023-09-19T15:14:57.255Z"
+      },
+      {
+        "id": "43ba0143-7dc3-4339-9823-853a26730ac0",
+        "created_at": "2023-09-19T15:51:07.216Z",
+        "updated_at": "2023-09-20T00:40:09.833Z"
+      },
+      {
+        "id": "2151d060-59fa-4d98-8348-0d39a5105138",
+        "created_at": "2023-09-20T08:26:07.299Z",
+        "updated_at": "2023-09-20T01:05:48.846Z"
+      },
+      {
+        "id": "1a9fabbe-9aa9-4b00-a4ff-d44865914f37",
+        "created_at": "2023-09-20T03:08:22.465Z",
+        "updated_at": "2023-09-19T15:38:56.512Z"
+      },
+      {
+        "id": "8a908687-fc3a-48bf-a350-bee9c81a0be6",
+        "created_at": "2023-09-20T01:06:54.248Z",
+        "updated_at": "2023-09-19T22:34:57.161Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "42ee5945-262a-444d-a84d-2b5fd0e88f12",
+        "created_at": "2023-09-19T19:24:34.592Z",
+        "updated_at": "2023-09-19T21:29:19.028Z"
+      },
+      {
+        "id": "e24bc1a4-4bd9-4113-b9e1-7e92120d22ca",
+        "created_at": "2023-09-20T07:19:23.909Z",
+        "updated_at": "2023-09-19T22:25:47.252Z"
+      },
+      {
+        "id": "25eb5188-f7c9-4614-a104-301f628a1e73",
+        "created_at": "2023-09-19T16:28:52.832Z",
+        "updated_at": "2023-09-20T04:05:51.345Z"
+      },
+      {
+        "id": "4243363a-4129-4878-bb68-280889990b63",
+        "created_at": "2023-09-20T05:33:08.187Z",
+        "updated_at": "2023-09-19T18:48:05.430Z"
+      },
+      {
+        "id": "e8d725a9-ffc5-4017-861e-56726e0b1b63",
+        "created_at": "2023-09-19T13:58:10.086Z",
+        "updated_at": "2023-09-20T01:54:25.039Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "11f34be3-9802-4585-9c01-a3cba9e6847d",
+        "email": "Concepcion12@hotmail.com",
+        "firstName": "Nicholaus",
+        "lastName": "Reinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49202838",
+        "tenantId": null
+      },
+      {
+        "reference": "8acf7d49-2987-4a95-bb14-c833aa1b91f2",
+        "email": "Elna73@yahoo.com",
+        "firstName": "Marcellus",
+        "lastName": "Williamson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94514328",
+        "tenantId": null
+      },
+      {
+        "reference": "55d8fab6-9738-4520-b366-1a8c76ed9026",
+        "email": "Davin61@yahoo.com",
+        "firstName": "Danial",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/769.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "19830b78-f671-484e-a833-f85c5efec8a0",
+        "email": "Keshawn72@gmail.com",
+        "firstName": "Jade",
+        "lastName": "Pfannerstill",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61688965",
+        "tenantId": null
+      },
+      {
+        "reference": "5a1e0be8-93e8-478b-97f8-4e9e33febd90",
+        "email": "Reuben.Abernathy@yahoo.com",
+        "firstName": "Octavia",
+        "lastName": "Mann-Goldner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41767613",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "b8b049a5-d3b7-4ad5-b08c-1d6cb363f889",
+        "created_at": "2023-09-20T03:57:41.543Z",
+        "updated_at": "2023-09-20T12:18:51.662Z"
+      },
+      {
+        "id": "59c33ecb-e1d9-44ec-9f14-fa05af1e7a1b",
+        "created_at": "2023-09-20T04:42:04.083Z",
+        "updated_at": "2023-09-20T11:01:30.828Z"
+      },
+      {
+        "id": "ff09f49a-e890-49c7-8b92-641c02811d4e",
+        "created_at": "2023-09-19T15:24:19.137Z",
+        "updated_at": "2023-09-20T01:55:07.705Z"
+      },
+      {
+        "id": "7f6a84cd-31fd-4da2-961e-1d224f94d46e",
+        "created_at": "2023-09-19T21:43:52.693Z",
+        "updated_at": "2023-09-19T23:35:37.321Z"
+      },
+      {
+        "id": "568068b7-baf5-4095-bbb9-52d0247f0525",
+        "created_at": "2023-09-19T14:23:12.671Z",
+        "updated_at": "2023-09-19T21:11:02.532Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "0887064e-3405-4c4d-92c7-56400186c1fd",
+        "created_at": "2023-09-19T14:36:35.097Z",
+        "updated_at": "2023-09-19T20:43:01.206Z"
+      },
+      {
+        "id": "825afd3e-6393-436e-aa1d-b1c86834a744",
+        "created_at": "2023-09-19T14:06:32.959Z",
+        "updated_at": "2023-09-20T06:54:52.054Z"
+      },
+      {
+        "id": "b03ba8b2-d938-4945-9a02-98d8fb0ed8e1",
+        "created_at": "2023-09-20T12:28:26.483Z",
+        "updated_at": "2023-09-19T23:10:42.921Z"
+      },
+      {
+        "id": "81598e3e-765c-4131-b28a-2f979b624c26",
+        "created_at": "2023-09-20T13:14:34.560Z",
+        "updated_at": "2023-09-19T21:53:41.061Z"
+      },
+      {
+        "id": "925d53e4-e7fb-419f-b925-bb6d3348ec0a",
+        "created_at": "2023-09-20T08:29:43.626Z",
+        "updated_at": "2023-09-20T02:26:05.561Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "f15e02e8-ed0f-48ee-b55a-5b8aa719e677",
+        "created_at": "2023-09-20T09:06:38.550Z",
+        "updated_at": "2023-09-20T05:03:20.342Z"
+      },
+      {
+        "id": "09be7a98-bdf6-4092-aa04-a11a4de79723",
+        "created_at": "2023-09-19T21:25:13.924Z",
+        "updated_at": "2023-09-20T01:39:24.415Z"
+      },
+      {
+        "id": "972d5e25-b76d-435e-a1d1-51fc2c078fb6",
+        "created_at": "2023-09-19T23:10:40.723Z",
+        "updated_at": "2023-09-20T10:46:00.771Z"
+      },
+      {
+        "id": "d9e81cc5-13f4-42cc-965a-ddc02242c556",
+        "created_at": "2023-09-20T06:59:51.810Z",
+        "updated_at": "2023-09-19T23:16:56.122Z"
+      },
+      {
+        "id": "05f42fb1-98e3-4e97-8d34-9c90f02efed3",
+        "created_at": "2023-09-20T07:01:01.100Z",
+        "updated_at": "2023-09-19T13:51:56.427Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "5770bad7-fa8d-49cb-bd07-78799ecd4a72",
+        "unit_number": 52738,
+        "size": "Small",
+        "availability_status": false,
+        "rent_price": 64752,
+        "last_maintenance_date": "2023-09-20T10:17:01.173Z",
+        "created_at": "2023-09-19T17:26:09.249Z",
+        "updated_at": "2023-09-20T09:09:02.940Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f037a5d2-e914-43ef-aa6b-9576546381a8",
+        "unit_number": 13880,
+        "size": "Medium",
+        "availability_status": true,
+        "rent_price": 74070,
+        "last_maintenance_date": "2023-09-19T17:13:27.810Z",
+        "created_at": "2023-09-19T22:32:12.286Z",
+        "updated_at": "2023-09-20T11:26:06.681Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "3b1f430f-9d25-4404-bafb-970ba888fa59",
+        "unit_number": 43668,
+        "size": "Large",
+        "availability_status": false,
+        "rent_price": 70319,
+        "last_maintenance_date": "2023-09-20T00:32:52.024Z",
+        "created_at": "2023-09-19T21:47:31.637Z",
+        "updated_at": "2023-09-20T00:23:29.608Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "567f450b-8883-440d-964e-e9bcbeba0ed9",
+        "unit_number": 21419,
+        "size": "Extra Large",
+        "availability_status": true,
+        "rent_price": 6274,
+        "last_maintenance_date": "2023-09-20T09:13:57.104Z",
+        "created_at": "2023-09-20T11:04:09.669Z",
+        "updated_at": "2023-09-19T13:56:37.617Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f4f8b100-b087-4035-884a-bf3b36715faa",
+        "unit_number": 31698,
+        "size": "Jumbo",
+        "availability_status": false,
+        "rent_price": 60091,
+        "last_maintenance_date": "2023-09-20T01:52:24.967Z",
+        "created_at": "2023-09-19T19:36:50.171Z",
+        "updated_at": "2023-09-20T10:23:01.364Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "d61b2092-bdd8-4731-9ce9-853c50b79074",
+        "start_date": "2023-09-19T20:25:03.218Z",
+        "end_date": "2023-09-20T06:39:15.459Z",
+        "total_cost": 78970,
+        "payment_status": true,
+        "created_at": "2023-09-19T22:44:33.682Z",
+        "updated_at": "2023-09-20T12:38:16.028Z",
+        "storage_unit_id": "f4f8b100-b087-4035-884a-bf3b36715faa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a092d43e-f585-47fe-9875-793b0022e2cf",
+        "start_date": "2023-09-20T05:54:53.531Z",
+        "end_date": "2023-09-20T02:11:56.783Z",
+        "total_cost": 22913,
+        "payment_status": false,
+        "created_at": "2023-09-20T02:08:26.825Z",
+        "updated_at": "2023-09-19T19:10:57.125Z",
+        "storage_unit_id": "3b1f430f-9d25-4404-bafb-970ba888fa59",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e7cb86b8-13d3-44ff-ac84-1ac0c025c6b7",
+        "start_date": "2023-09-20T07:29:36.728Z",
+        "end_date": "2023-09-19T22:32:35.350Z",
+        "total_cost": 38565,
+        "payment_status": true,
+        "created_at": "2023-09-19T18:06:01.676Z",
+        "updated_at": "2023-09-19T17:53:43.068Z",
+        "storage_unit_id": "f4f8b100-b087-4035-884a-bf3b36715faa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4af3f75-a4f7-4e57-897a-729f06eb8c92",
+        "start_date": "2023-09-19T18:03:28.400Z",
+        "end_date": "2023-09-20T06:37:41.989Z",
+        "total_cost": 7327,
+        "payment_status": false,
+        "created_at": "2023-09-20T03:50:30.302Z",
+        "updated_at": "2023-09-19T13:59:27.516Z",
+        "storage_unit_id": "f4f8b100-b087-4035-884a-bf3b36715faa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af28a7d9-ee00-4c11-8cda-cf29bef6967b",
+        "start_date": "2023-09-19T20:31:58.051Z",
+        "end_date": "2023-09-19T15:18:22.632Z",
+        "total_cost": 72634,
+        "payment_status": false,
+        "created_at": "2023-09-19T17:54:10.505Z",
+        "updated_at": "2023-09-19T16:56:54.830Z",
+        "storage_unit_id": "f4f8b100-b087-4035-884a-bf3b36715faa",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "e15c423e-e174-4961-aa06-bb998ba7ac0c",
+        "maintenance_date": "2023-09-19T16:19:05.291Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance checkup",
+        "cost": 1912,
+        "created_at": "2023-09-20T05:42:08.266Z",
+        "updated_at": "2023-09-20T07:40:18.724Z",
+        "storage_unit_id": "3b1f430f-9d25-4404-bafb-970ba888fa59"
+      },
+      {
+        "id": "468ee562-b307-4519-94a8-944b4d5dbf77",
+        "maintenance_date": "2023-09-20T11:25:27.735Z",
+        "maintenance_type": "Preventive",
+        "description": "Scheduled maintenance for equipment",
+        "cost": 23603,
+        "created_at": "2023-09-19T22:28:33.136Z",
+        "updated_at": "2023-09-20T11:14:59.808Z",
+        "storage_unit_id": "f037a5d2-e914-43ef-aa6b-9576546381a8"
+      },
+      {
+        "id": "13a2daee-2243-414f-a248-8bdb3133b256",
+        "maintenance_date": "2023-09-20T09:29:25.015Z",
+        "maintenance_type": "Emergency",
+        "description": "Emergency repair due to equipment failure",
+        "cost": 38865,
+        "created_at": "2023-09-20T05:23:45.213Z",
+        "updated_at": "2023-09-19T22:22:32.098Z",
+        "storage_unit_id": "3b1f430f-9d25-4404-bafb-970ba888fa59"
+      },
+      {
+        "id": "a7b919ea-7f50-4da0-b7a3-06a66dbdf250",
+        "maintenance_date": "2023-09-19T21:42:18.291Z",
+        "maintenance_type": "Scheduled",
+        "description": "Preventive maintenance to avoid potential issues",
+        "cost": 91027,
+        "created_at": "2023-09-20T04:00:54.007Z",
+        "updated_at": "2023-09-20T01:08:10.288Z",
+        "storage_unit_id": "567f450b-8883-440d-964e-e9bcbeba0ed9"
+      },
+      {
+        "id": "272815b4-4f94-4fae-af9a-094bc9037788",
+        "maintenance_date": "2023-09-19T14:17:04.390Z",
+        "maintenance_type": "Corrective",
+        "description": "Corrective maintenance to fix existing problems",
+        "cost": 16709,
+        "created_at": "2023-09-19T16:45:34.708Z",
+        "updated_at": "2023-09-20T05:07:13.840Z",
+        "storage_unit_id": "f037a5d2-e914-43ef-aa6b-9576546381a8"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "19e62010-f9d5-4ebc-b499-467622306bcf",
+        "item_name": "Chair",
+        "quantity": 68536,
+        "location": "Office",
+        "last_updated": "2023-09-20T08:47:37.725Z",
+        "created_at": "2023-09-20T02:36:41.017Z",
+        "updated_at": "2023-09-19T16:50:53.339Z",
+        "storage_unit_id": "567f450b-8883-440d-964e-e9bcbeba0ed9"
+      },
+      {
+        "id": "3ffd7cd4-a8e1-464d-a417-cedb167736a7",
+        "item_name": "Table",
+        "quantity": 59207,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T00:25:25.299Z",
+        "created_at": "2023-09-19T18:59:08.039Z",
+        "updated_at": "2023-09-20T11:54:09.118Z",
+        "storage_unit_id": "f037a5d2-e914-43ef-aa6b-9576546381a8"
+      },
+      {
+        "id": "867f45a8-5dd7-44b5-b964-d748ca5e9163",
+        "item_name": "Desk",
+        "quantity": 29693,
+        "location": "Store",
+        "last_updated": "2023-09-20T02:53:46.504Z",
+        "created_at": "2023-09-20T02:33:56.611Z",
+        "updated_at": "2023-09-20T10:38:43.859Z",
+        "storage_unit_id": "3b1f430f-9d25-4404-bafb-970ba888fa59"
+      },
+      {
+        "id": "6b7970fb-1905-4e96-b8cc-d9765ce14756",
+        "item_name": "Bookshelf",
+        "quantity": 64634,
+        "location": "Home",
+        "last_updated": "2023-09-20T03:02:10.256Z",
+        "created_at": "2023-09-20T05:36:13.171Z",
+        "updated_at": "2023-09-20T06:30:06.663Z",
+        "storage_unit_id": "567f450b-8883-440d-964e-e9bcbeba0ed9"
+      },
+      {
+        "id": "8d9cafb4-6c22-4549-b39c-3ef2ed2a77a9",
+        "item_name": "Cabinet",
+        "quantity": 96352,
+        "location": "Garage",
+        "last_updated": "2023-09-19T20:34:34.702Z",
+        "created_at": "2023-09-19T23:00:08.389Z",
+        "updated_at": "2023-09-20T07:41:27.106Z",
+        "storage_unit_id": "f037a5d2-e914-43ef-aa6b-9576546381a8"
+      }
+    ],
+    "customer": [
+      {
+        "id": "f9381b2e-a7e0-470d-a637-5ca6a5371323",
+        "created_at": "2023-09-20T00:34:46.736Z",
+        "updated_at": "2023-09-20T06:12:56.673Z"
+      },
+      {
+        "id": "30d3ef08-4477-4b41-b551-4282e635f84a",
+        "created_at": "2023-09-20T01:59:32.904Z",
+        "updated_at": "2023-09-20T04:40:42.387Z"
+      },
+      {
+        "id": "503f0f24-fa18-42cf-8390-80a03a2f380f",
+        "created_at": "2023-09-20T12:53:40.140Z",
+        "updated_at": "2023-09-19T19:26:44.190Z"
+      },
+      {
+        "id": "13ea7999-3613-4b46-bc61-ec69db55c11d",
+        "created_at": "2023-09-19T21:01:19.540Z",
+        "updated_at": "2023-09-19T23:44:41.664Z"
+      },
+      {
+        "id": "c7b16982-e3b6-42e5-b82d-dadce8f70b28",
+        "created_at": "2023-09-19T15:52:01.195Z",
+        "updated_at": "2023-09-19T21:08:07.915Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "0b59a864-cb8e-4da9-85f6-b4616c66ffc6",
+        "created_at": "2023-09-19T21:10:27.600Z",
+        "updated_at": "2023-09-19T16:16:50.912Z"
+      },
+      {
+        "id": "a74eb7c0-41f3-4cdd-91db-bdbd201827e9",
+        "created_at": "2023-09-19T20:34:13.831Z",
+        "updated_at": "2023-09-20T12:05:41.924Z"
+      },
+      {
+        "id": "dc7adf12-5732-4e21-96e6-4e955061f67a",
+        "created_at": "2023-09-19T14:00:37.563Z",
+        "updated_at": "2023-09-19T19:49:12.770Z"
+      },
+      {
+        "id": "42b584a7-974e-4c63-9548-3136db3cc4b9",
+        "created_at": "2023-09-20T03:19:28.016Z",
+        "updated_at": "2023-09-20T06:15:31.415Z"
+      },
+      {
+        "id": "6cb9eef1-5319-49cc-aae7-8063e2e95615",
+        "created_at": "2023-09-20T10:33:15.700Z",
+        "updated_at": "2023-09-19T21:48:05.287Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "735e2f70-e804-4912-bee2-b9b732f07d5b",
+        "email": "Novella_Dooley34@hotmail.com",
+        "firstName": "Heber",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9083841",
+        "tenantId": null
+      },
+      {
+        "reference": "e40089a1-d390-457f-a437-c5289458f19b",
+        "email": "Ervin11@gmail.com",
+        "firstName": "Roscoe",
+        "lastName": "Heidenreich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74449024",
+        "tenantId": null
+      },
+      {
+        "reference": "c25f1cf9-2ebf-4af3-bbd2-dd3c54c45f37",
+        "email": "Elda16@hotmail.com",
+        "firstName": "Dale",
+        "lastName": "Blick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/50.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ac2a5cde-c180-4991-abbe-e64a059004af",
+        "email": "Adriana_Rosenbaum@gmail.com",
+        "firstName": "Cora",
+        "lastName": "Kassulke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/638.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ae360747-096c-4f2e-aa14-9c8405b6604e",
+        "email": "Arlie4@yahoo.com",
+        "firstName": "Cameron",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/846.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "9416b780-acfa-4f2e-b75f-34a36f814f15",
+        "created_at": "2023-09-19T16:35:48.953Z",
+        "updated_at": "2023-09-20T05:28:10.506Z"
+      },
+      {
+        "id": "5a276af7-6b00-4a3b-a0c2-0f76fff81a31",
+        "created_at": "2023-09-20T00:44:28.251Z",
+        "updated_at": "2023-09-19T14:39:20.585Z"
+      },
+      {
+        "id": "aa181a0a-43a1-4067-89ad-63497065cc36",
+        "created_at": "2023-09-19T22:28:41.568Z",
+        "updated_at": "2023-09-20T12:14:43.494Z"
+      },
+      {
+        "id": "dc99354e-a4bb-4986-8f9a-377afbc66245",
+        "created_at": "2023-09-20T11:11:50.746Z",
+        "updated_at": "2023-09-20T01:11:23.081Z"
+      },
+      {
+        "id": "9a26588d-43bc-47c5-9908-01123e358c37",
+        "created_at": "2023-09-20T07:02:52.407Z",
+        "updated_at": "2023-09-20T11:58:39.563Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "92743e2d-4296-4e9d-a3ad-74da97c444d2",
+        "created_at": "2023-09-20T10:43:19.094Z",
+        "updated_at": "2023-09-20T02:11:37.086Z"
+      },
+      {
+        "id": "935a4f7b-06b2-49e8-901f-1fbdb1f9938c",
+        "created_at": "2023-09-20T10:13:15.020Z",
+        "updated_at": "2023-09-19T15:24:43.623Z"
+      },
+      {
+        "id": "80d3081b-6ec6-4f4e-a669-f95b4fc44241",
+        "created_at": "2023-09-19T16:03:25.540Z",
+        "updated_at": "2023-09-19T22:56:55.389Z"
+      },
+      {
+        "id": "40e6e22f-765b-4693-8ac7-1705f64e7ce0",
+        "created_at": "2023-09-19T18:43:37.552Z",
+        "updated_at": "2023-09-19T21:28:21.444Z"
+      },
+      {
+        "id": "c679d486-0977-4d4c-9a4d-d125c880796c",
+        "created_at": "2023-09-20T12:09:17.196Z",
+        "updated_at": "2023-09-19T22:10:03.880Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "c38038d3-c7c6-41d6-a7ee-f5bccf492e88",
+        "created_at": "2023-09-20T00:25:28.161Z",
+        "updated_at": "2023-09-20T06:22:10.595Z"
+      },
+      {
+        "id": "b2b75207-e902-4c2c-a6b3-30962eb1cc3d",
+        "created_at": "2023-09-19T23:19:42.908Z",
+        "updated_at": "2023-09-20T11:29:15.036Z"
+      },
+      {
+        "id": "484ec6a8-acab-4fdd-91c9-b6ac0fd89d22",
+        "created_at": "2023-09-20T04:10:08.756Z",
+        "updated_at": "2023-09-20T08:41:31.300Z"
+      },
+      {
+        "id": "5e83d18a-0e80-472f-9122-22cee712a4a5",
+        "created_at": "2023-09-20T00:50:14.989Z",
+        "updated_at": "2023-09-19T22:31:58.690Z"
+      },
+      {
+        "id": "6fbf7208-7e47-4c1b-95ef-2cf10e418e1a",
+        "created_at": "2023-09-20T12:09:26.671Z",
+        "updated_at": "2023-09-19T21:53:21.456Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "38d805a9-f736-4754-9732-8127b40063c3",
+        "unit_number": 78737,
+        "size": "Small",
+        "availability_status": true,
+        "rent_price": 52182,
+        "last_maintenance_date": "2023-09-19T18:36:05.852Z",
+        "created_at": "2023-09-20T09:22:54.182Z",
+        "updated_at": "2023-09-19T13:51:46.037Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "19e40bc4-5e63-4258-ba5f-3fe6c93d0abe",
+        "unit_number": 71032,
+        "size": "Medium",
+        "availability_status": false,
+        "rent_price": 54953,
+        "last_maintenance_date": "2023-09-20T03:13:17.414Z",
+        "created_at": "2023-09-20T06:20:50.911Z",
+        "updated_at": "2023-09-19T17:08:19.977Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "a79504ad-694d-4cf8-bc70-1222b3a10c25",
+        "unit_number": 10004,
+        "size": "Large",
+        "availability_status": true,
+        "rent_price": 22050,
+        "last_maintenance_date": "2023-09-19T16:03:15.643Z",
+        "created_at": "2023-09-19T18:55:07.685Z",
+        "updated_at": "2023-09-19T15:36:30.748Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "af59e953-2035-4874-9e65-ea4c051af34b",
+        "unit_number": 31769,
+        "size": "Extra Large",
+        "availability_status": true,
+        "rent_price": 57480,
+        "last_maintenance_date": "2023-09-19T20:53:30.435Z",
+        "created_at": "2023-09-20T03:49:51.549Z",
+        "updated_at": "2023-09-20T01:36:53.683Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "98f635c8-b6af-497d-8d87-3d277b26bf95",
+        "unit_number": 91382,
+        "size": "Custom",
+        "availability_status": true,
+        "rent_price": 33992,
+        "last_maintenance_date": "2023-09-19T15:26:48.206Z",
+        "created_at": "2023-09-19T19:45:06.935Z",
+        "updated_at": "2023-09-19T19:59:24.707Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "35322f7c-8864-4e1d-8e2a-b87a9806b8b5",
+        "start_date": "2023-09-19T16:02:21.739Z",
+        "end_date": "2023-09-20T12:02:50.126Z",
+        "total_cost": 15827,
+        "payment_status": false,
+        "created_at": "2023-09-19T16:02:47.203Z",
+        "updated_at": "2023-09-19T18:41:21.500Z",
+        "storage_unit_id": "af59e953-2035-4874-9e65-ea4c051af34b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "709c81a9-0989-4ba8-8631-814fbd397983",
+        "start_date": "2023-09-19T15:21:40.489Z",
+        "end_date": "2023-09-19T22:37:50.097Z",
+        "total_cost": 25148,
+        "payment_status": true,
+        "created_at": "2023-09-20T08:27:18.673Z",
+        "updated_at": "2023-09-20T09:00:04.727Z",
+        "storage_unit_id": "38d805a9-f736-4754-9732-8127b40063c3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "609fdfea-3c61-4a05-a6b9-fcbac513df0d",
+        "start_date": "2023-09-20T02:12:32.233Z",
+        "end_date": "2023-09-19T15:16:31.632Z",
+        "total_cost": 74792,
+        "payment_status": true,
+        "created_at": "2023-09-20T13:06:03.127Z",
+        "updated_at": "2023-09-19T17:06:15.354Z",
+        "storage_unit_id": "a79504ad-694d-4cf8-bc70-1222b3a10c25",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9bfff2b-0b4b-4328-9cf7-a6a88736f07a",
+        "start_date": "2023-09-20T11:51:07.616Z",
+        "end_date": "2023-09-19T22:45:14.547Z",
+        "total_cost": 95169,
+        "payment_status": true,
+        "created_at": "2023-09-19T19:32:54.971Z",
+        "updated_at": "2023-09-19T20:18:05.016Z",
+        "storage_unit_id": "a79504ad-694d-4cf8-bc70-1222b3a10c25",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b71c61b-86b1-48cc-937f-206b9d63473f",
+        "start_date": "2023-09-20T08:21:39.777Z",
+        "end_date": "2023-09-20T08:29:55.125Z",
+        "total_cost": 37264,
+        "payment_status": false,
+        "created_at": "2023-09-20T03:18:18.420Z",
+        "updated_at": "2023-09-20T05:39:50.617Z",
+        "storage_unit_id": "19e40bc4-5e63-4258-ba5f-3fe6c93d0abe",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "bcc14859-0faa-4a80-a4d3-0c836bdd62b4",
+        "maintenance_date": "2023-09-20T02:07:44.719Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance to ensure optimal performance",
+        "cost": 68403,
+        "created_at": "2023-09-19T18:04:28.357Z",
+        "updated_at": "2023-09-19T18:20:38.312Z",
+        "storage_unit_id": "19e40bc4-5e63-4258-ba5f-3fe6c93d0abe"
+      },
+      {
+        "id": "7f6b89e6-0b8b-4ca6-84fd-2c539f9957fa",
+        "maintenance_date": "2023-09-19T17:44:40.342Z",
+        "maintenance_type": "Preventive",
+        "description": "Proactive measures to prevent breakdowns",
+        "cost": 6467,
+        "created_at": "2023-09-19T16:26:55.152Z",
+        "updated_at": "2023-09-19T15:06:09.138Z",
+        "storage_unit_id": "38d805a9-f736-4754-9732-8127b40063c3"
+      },
+      {
+        "id": "bdbd1dfa-eeb2-4281-b5a0-be65155e2197",
+        "maintenance_date": "2023-09-20T05:09:01.854Z",
+        "maintenance_type": "Corrective",
+        "description": "Fixing issues as they arise",
+        "cost": 76221,
+        "created_at": "2023-09-19T14:44:38.172Z",
+        "updated_at": "2023-09-20T07:48:23.228Z",
+        "storage_unit_id": "19e40bc4-5e63-4258-ba5f-3fe6c93d0abe"
+      },
+      {
+        "id": "fe04c700-46e7-49c5-8702-759ad4b1ac68",
+        "maintenance_date": "2023-09-20T01:46:13.973Z",
+        "maintenance_type": "Emergency",
+        "description": "Urgent repairs to prevent further damage",
+        "cost": 12026,
+        "created_at": "2023-09-20T12:32:28.673Z",
+        "updated_at": "2023-09-19T17:47:49.020Z",
+        "storage_unit_id": "af59e953-2035-4874-9e65-ea4c051af34b"
+      },
+      {
+        "id": "df1096c4-4d2c-40b0-aa1b-681f241ca4f1",
+        "maintenance_date": "2023-09-20T03:45:15.717Z",
+        "maintenance_type": "Scheduled",
+        "description": "Planned maintenance to minimize downtime",
+        "cost": 30295,
+        "created_at": "2023-09-20T00:00:06.359Z",
+        "updated_at": "2023-09-19T14:52:16.387Z",
+        "storage_unit_id": "98f635c8-b6af-497d-8d87-3d277b26bf95"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "41127163-9fa6-4269-91e7-30f703d08884",
+        "item_name": "Chair",
+        "quantity": 59987,
+        "location": "Office",
+        "last_updated": "2023-09-20T09:18:04.921Z",
+        "created_at": "2023-09-19T22:18:52.732Z",
+        "updated_at": "2023-09-19T14:50:50.724Z",
+        "storage_unit_id": "38d805a9-f736-4754-9732-8127b40063c3"
+      },
+      {
+        "id": "c7a75421-c0a8-4ad9-8ecb-eb56da2b8bd7",
+        "item_name": "Desk",
+        "quantity": 16774,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T08:40:52.726Z",
+        "created_at": "2023-09-20T03:45:43.279Z",
+        "updated_at": "2023-09-19T23:36:22.509Z",
+        "storage_unit_id": "98f635c8-b6af-497d-8d87-3d277b26bf95"
+      },
+      {
+        "id": "7dec96b0-461a-450e-ba2e-d9c76a8c02e7",
+        "item_name": "Computer",
+        "quantity": 62797,
+        "location": "Conference Room",
+        "last_updated": "2023-09-19T14:23:37.093Z",
+        "created_at": "2023-09-19T21:56:28.182Z",
+        "updated_at": "2023-09-19T22:49:18.434Z",
+        "storage_unit_id": "a79504ad-694d-4cf8-bc70-1222b3a10c25"
+      },
+      {
+        "id": "87931032-8c94-4825-8a38-6991eb96c1e3",
+        "item_name": "Printer",
+        "quantity": 84621,
+        "location": "Break Room",
+        "last_updated": "2023-09-19T14:29:59.861Z",
+        "created_at": "2023-09-19T23:20:24.185Z",
+        "updated_at": "2023-09-20T07:56:02.641Z",
+        "storage_unit_id": "38d805a9-f736-4754-9732-8127b40063c3"
+      },
+      {
+        "id": "484a9444-35f2-4158-a879-6e0e420f0766",
+        "item_name": "Whiteboard",
+        "quantity": 79039,
+        "location": "Reception Area",
+        "last_updated": "2023-09-20T08:06:36.735Z",
+        "created_at": "2023-09-19T16:23:10.078Z",
+        "updated_at": "2023-09-20T00:04:38.406Z",
+        "storage_unit_id": "38d805a9-f736-4754-9732-8127b40063c3"
+      }
+    ],
+    "customer": [
+      {
+        "id": "789da140-7667-49b0-9758-98f8087afa9d",
+        "created_at": "2023-09-20T07:33:43.337Z",
+        "updated_at": "2023-09-20T12:45:12.910Z"
+      },
+      {
+        "id": "0574bdc1-ed1f-43d5-ba2a-cf00eb055026",
+        "created_at": "2023-09-20T00:20:55.586Z",
+        "updated_at": "2023-09-20T03:21:45.813Z"
+      },
+      {
+        "id": "944c7402-23d4-4057-ace8-186de3d54a1d",
+        "created_at": "2023-09-20T00:17:32.166Z",
+        "updated_at": "2023-09-19T14:49:43.106Z"
+      },
+      {
+        "id": "34b842c9-7fbd-4a05-b2a5-362d9f6c16ff",
+        "created_at": "2023-09-19T15:10:22.346Z",
+        "updated_at": "2023-09-20T01:30:16.692Z"
+      },
+      {
+        "id": "acb6a005-0d8a-4e03-978b-bac81111a57f",
+        "created_at": "2023-09-19T13:57:31.319Z",
+        "updated_at": "2023-09-19T19:13:27.547Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "6e732a72-e227-4cf9-8d09-67b8100052b1",
+        "created_at": "2023-09-19T16:59:52.154Z",
+        "updated_at": "2023-09-20T07:18:29.821Z"
+      },
+      {
+        "id": "0984ea41-dd0a-4301-aa6e-858e2c09fec9",
+        "created_at": "2023-09-19T19:48:54.429Z",
+        "updated_at": "2023-09-19T16:49:03.782Z"
+      },
+      {
+        "id": "6c1ad689-93a0-46ad-bb69-89558ed742f9",
+        "created_at": "2023-09-20T08:02:49.890Z",
+        "updated_at": "2023-09-20T10:13:47.845Z"
+      },
+      {
+        "id": "8e4f8394-08c3-4700-bc59-31ced2c88b07",
+        "created_at": "2023-09-19T21:19:06.261Z",
+        "updated_at": "2023-09-20T11:19:10.959Z"
+      },
+      {
+        "id": "21c71a3d-b287-4dba-af01-d81cd04acb26",
+        "created_at": "2023-09-20T02:24:51.342Z",
+        "updated_at": "2023-09-19T19:17:54.002Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "366f27a4-9fc1-4500-81c1-d43187be9984",
+        "email": "Leanna52@hotmail.com",
+        "firstName": "Nicola",
+        "lastName": "Heaney",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18681004",
+        "tenantId": null
+      },
+      {
+        "reference": "baaa2715-5451-47e1-abb2-2739d4378bcb",
+        "email": "Malachi76@yahoo.com",
+        "firstName": "Alva",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/29.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d2760174-0fe5-460a-b75b-557eb3bdfcf9",
+        "email": "Freda.Kulas@yahoo.com",
+        "firstName": "Sage",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/945.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ed633304-1b65-426a-8f81-52957d5295c0",
+        "email": "Cecil40@yahoo.com",
+        "firstName": "Santino",
+        "lastName": "Tromp",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/540.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3c9f143f-2410-438a-9261-3d3fd7954eb0",
+        "email": "Hailee_Davis@hotmail.com",
+        "firstName": "Vicente",
+        "lastName": "Lesch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3929016",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "0952f581-92a3-4e5c-8525-89968161c529",
+        "created_at": "2023-09-20T00:03:56.697Z",
+        "updated_at": "2023-09-20T03:32:57.014Z"
+      },
+      {
+        "id": "4acd72bf-fd5a-45ec-b896-41b431f7f8db",
+        "created_at": "2023-09-19T20:22:55.078Z",
+        "updated_at": "2023-09-20T00:42:16.318Z"
+      },
+      {
+        "id": "7b186e8e-e01a-418c-ae22-b375af9cee5d",
+        "created_at": "2023-09-20T11:47:06.029Z",
+        "updated_at": "2023-09-20T00:47:24.890Z"
+      },
+      {
+        "id": "18c7baa0-df37-4d9b-8240-cf4c690c28c2",
+        "created_at": "2023-09-20T13:11:35.543Z",
+        "updated_at": "2023-09-19T22:11:55.639Z"
+      },
+      {
+        "id": "7688d834-0ed4-41ec-82df-aed2e9cfd93e",
+        "created_at": "2023-09-19T15:21:27.634Z",
+        "updated_at": "2023-09-19T20:33:27.255Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "4f32d51b-86e4-42ba-bfb2-373e2b4f01af",
+        "created_at": "2023-09-19T21:49:55.156Z",
+        "updated_at": "2023-09-19T20:34:17.591Z"
+      },
+      {
+        "id": "76b8d8c9-1d43-4af8-8141-46d6c60ce646",
+        "created_at": "2023-09-20T06:20:18.965Z",
+        "updated_at": "2023-09-20T00:32:23.574Z"
+      },
+      {
+        "id": "c6cf23f7-98fe-43d4-bccd-78452cb6429c",
+        "created_at": "2023-09-19T22:14:01.930Z",
+        "updated_at": "2023-09-20T04:58:34.908Z"
+      },
+      {
+        "id": "a6773214-78a0-4067-8598-ec03ed20018f",
+        "created_at": "2023-09-19T21:16:43.323Z",
+        "updated_at": "2023-09-20T07:43:17.023Z"
+      },
+      {
+        "id": "5127175b-7bd7-40b7-823b-785e672903fc",
+        "created_at": "2023-09-20T12:27:09.039Z",
+        "updated_at": "2023-09-20T05:10:01.501Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "c0284c7d-4922-4c66-a60e-12c482389163",
+        "created_at": "2023-09-20T09:35:26.290Z",
+        "updated_at": "2023-09-20T09:07:03.296Z"
+      },
+      {
+        "id": "40f455d1-aa52-4caf-acbc-e7cd53fed137",
+        "created_at": "2023-09-20T06:25:34.806Z",
+        "updated_at": "2023-09-19T17:27:17.513Z"
+      },
+      {
+        "id": "2a998c0d-5119-4d25-a682-69874978bb9c",
+        "created_at": "2023-09-19T19:37:27.138Z",
+        "updated_at": "2023-09-19T19:57:57.273Z"
+      },
+      {
+        "id": "ad43db79-638e-4d91-8eab-e9a96ce46158",
+        "created_at": "2023-09-19T20:46:22.364Z",
+        "updated_at": "2023-09-20T08:04:09.866Z"
+      },
+      {
+        "id": "65706630-7a43-42d1-9160-9f0e18394c03",
+        "created_at": "2023-09-20T05:06:45.312Z",
+        "updated_at": "2023-09-20T05:28:47.093Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "d6444543-5cd0-468f-9f95-18f0a65f5644",
+        "unit_number": 29690,
+        "size": "Small",
+        "availability_status": true,
+        "rent_price": 97077,
+        "last_maintenance_date": "2023-09-20T06:34:06.997Z",
+        "created_at": "2023-09-19T21:16:25.626Z",
+        "updated_at": "2023-09-19T14:12:53.812Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "3dc924db-ba64-4cd6-8cc4-41b4e3324e61",
+        "unit_number": 84459,
+        "size": "Medium",
+        "availability_status": false,
+        "rent_price": 42780,
+        "last_maintenance_date": "2023-09-20T10:51:05.318Z",
+        "created_at": "2023-09-20T13:35:31.027Z",
+        "updated_at": "2023-09-19T15:05:52.295Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "53459366-b74e-4ac1-baa9-647607d0492f",
+        "unit_number": 43686,
+        "size": "Large",
+        "availability_status": false,
+        "rent_price": 89322,
+        "last_maintenance_date": "2023-09-20T11:49:32.264Z",
+        "created_at": "2023-09-19T15:05:16.477Z",
+        "updated_at": "2023-09-19T18:45:00.517Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "1a650932-bfee-424e-9e53-0b214890b9d8",
+        "unit_number": 85187,
+        "size": "Extra Large",
+        "availability_status": true,
+        "rent_price": 4232,
+        "last_maintenance_date": "2023-09-20T03:37:26.687Z",
+        "created_at": "2023-09-20T10:09:36.305Z",
+        "updated_at": "2023-09-20T11:07:40.694Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "848f4eb1-deee-41a0-b881-914337c9734f",
+        "unit_number": 38873,
+        "size": "Custom",
+        "availability_status": false,
+        "rent_price": 14971,
+        "last_maintenance_date": "2023-09-20T12:59:02.304Z",
+        "created_at": "2023-09-20T13:24:29.798Z",
+        "updated_at": "2023-09-19T23:33:57.524Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "5e83f00c-1e6e-4fd7-9099-0a0f6104a616",
+        "start_date": "2023-09-19T23:03:26.408Z",
+        "end_date": "2023-09-20T01:12:01.378Z",
+        "total_cost": 48011,
+        "payment_status": true,
+        "created_at": "2023-09-19T23:48:33.858Z",
+        "updated_at": "2023-09-20T05:03:42.729Z",
+        "storage_unit_id": "53459366-b74e-4ac1-baa9-647607d0492f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c257f67f-9ab1-4f4e-9c5d-938326f38853",
+        "start_date": "2023-09-19T14:50:47.080Z",
+        "end_date": "2023-09-19T18:32:46.241Z",
+        "total_cost": 84187,
+        "payment_status": false,
+        "created_at": "2023-09-19T23:51:14.998Z",
+        "updated_at": "2023-09-19T15:52:52.733Z",
+        "storage_unit_id": "1a650932-bfee-424e-9e53-0b214890b9d8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9a10cf76-819a-426c-80db-04f069eeeeb8",
+        "start_date": "2023-09-19T16:13:54.456Z",
+        "end_date": "2023-09-19T23:55:12.823Z",
+        "total_cost": 74813,
+        "payment_status": false,
+        "created_at": "2023-09-19T23:18:54.579Z",
+        "updated_at": "2023-09-20T08:39:33.194Z",
+        "storage_unit_id": "1a650932-bfee-424e-9e53-0b214890b9d8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eafc3ad2-252a-4489-affe-b4e65728b22b",
+        "start_date": "2023-09-20T12:56:55.323Z",
+        "end_date": "2023-09-20T05:56:18.876Z",
+        "total_cost": 13561,
+        "payment_status": true,
+        "created_at": "2023-09-19T14:14:02.129Z",
+        "updated_at": "2023-09-20T12:48:27.198Z",
+        "storage_unit_id": "848f4eb1-deee-41a0-b881-914337c9734f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d9ae11be-d1c5-4f3b-a0bd-610ccd69152e",
+        "start_date": "2023-09-19T21:06:30.188Z",
+        "end_date": "2023-09-19T15:55:46.504Z",
+        "total_cost": 48753,
+        "payment_status": false,
+        "created_at": "2023-09-20T11:02:40.771Z",
+        "updated_at": "2023-09-19T18:29:58.227Z",
+        "storage_unit_id": "d6444543-5cd0-468f-9f95-18f0a65f5644",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "b81a0f56-56d6-4618-915c-6b517263fb84",
+        "maintenance_date": "2023-09-19T21:17:24.856Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance to ensure optimal performance",
+        "cost": 47208,
+        "created_at": "2023-09-19T19:50:49.291Z",
+        "updated_at": "2023-09-19T16:11:44.389Z",
+        "storage_unit_id": "53459366-b74e-4ac1-baa9-647607d0492f"
+      },
+      {
+        "id": "60858665-3291-4ca5-ae2a-fea3367f04a0",
+        "maintenance_date": "2023-09-19T22:29:03.205Z",
+        "maintenance_type": "Preventive",
+        "description": "Proactive maintenance to prevent issues",
+        "cost": 40100,
+        "created_at": "2023-09-20T07:06:05.744Z",
+        "updated_at": "2023-09-20T10:57:03.855Z",
+        "storage_unit_id": "3dc924db-ba64-4cd6-8cc4-41b4e3324e61"
+      },
+      {
+        "id": "f734a41c-d06f-45de-b7d2-94e52be8eb82",
+        "maintenance_date": "2023-09-19T23:18:55.563Z",
+        "maintenance_type": "Emergency",
+        "description": "Urgent maintenance required due to critical failure",
+        "cost": 97978,
+        "created_at": "2023-09-20T01:15:53.518Z",
+        "updated_at": "2023-09-20T08:17:29.632Z",
+        "storage_unit_id": "d6444543-5cd0-468f-9f95-18f0a65f5644"
+      },
+      {
+        "id": "6d080b39-7413-4a40-b77b-2a6601b22945",
+        "maintenance_date": "2023-09-20T03:31:19.154Z",
+        "maintenance_type": "Scheduled",
+        "description": "Planned maintenance for system upgrades",
+        "cost": 67523,
+        "created_at": "2023-09-20T13:00:53.849Z",
+        "updated_at": "2023-09-19T15:32:37.198Z",
+        "storage_unit_id": "d6444543-5cd0-468f-9f95-18f0a65f5644"
+      },
+      {
+        "id": "d264c971-5a28-44f4-a48e-803023aee09d",
+        "maintenance_date": "2023-09-20T12:37:37.648Z",
+        "maintenance_type": "Corrective",
+        "description": "Maintenance to fix identified problems",
+        "cost": 22143,
+        "created_at": "2023-09-20T08:15:44.887Z",
+        "updated_at": "2023-09-19T13:50:39.714Z",
+        "storage_unit_id": "d6444543-5cd0-468f-9f95-18f0a65f5644"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "dc06e96f-2992-4854-8970-2bf7624c98cf",
+        "item_name": "Chair",
+        "quantity": 5788,
+        "location": "Office",
+        "last_updated": "2023-09-20T07:27:02.220Z",
+        "created_at": "2023-09-19T19:06:53.490Z",
+        "updated_at": "2023-09-19T18:32:22.170Z",
+        "storage_unit_id": "848f4eb1-deee-41a0-b881-914337c9734f"
+      },
+      {
+        "id": "c168bb69-0632-4ad5-8a2c-8e18c9721a25",
+        "item_name": "Desk",
+        "quantity": 46376,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T03:54:08.051Z",
+        "created_at": "2023-09-20T04:52:51.313Z",
+        "updated_at": "2023-09-20T05:57:22.809Z",
+        "storage_unit_id": "848f4eb1-deee-41a0-b881-914337c9734f"
+      },
+      {
+        "id": "9b61ab59-3011-458d-a99d-d09957572d10",
+        "item_name": "Computer",
+        "quantity": 58384,
+        "location": "Store",
+        "last_updated": "2023-09-20T12:09:12.953Z",
+        "created_at": "2023-09-20T00:27:56.955Z",
+        "updated_at": "2023-09-19T21:52:14.286Z",
+        "storage_unit_id": "53459366-b74e-4ac1-baa9-647607d0492f"
+      },
+      {
+        "id": "fdbedf3c-f8b7-426e-9f27-3bef639551a4",
+        "item_name": "Printer",
+        "quantity": 86243,
+        "location": "Home",
+        "last_updated": "2023-09-20T03:17:59.485Z",
+        "created_at": "2023-09-19T23:06:34.571Z",
+        "updated_at": "2023-09-20T06:07:39.634Z",
+        "storage_unit_id": "848f4eb1-deee-41a0-b881-914337c9734f"
+      },
+      {
+        "id": "8230c226-ed49-43c7-b5ea-2feaefa01dda",
+        "item_name": "Phone",
+        "quantity": 75296,
+        "location": "Factory",
+        "last_updated": "2023-09-19T17:17:47.616Z",
+        "created_at": "2023-09-20T01:36:25.277Z",
+        "updated_at": "2023-09-20T05:29:33.461Z",
+        "storage_unit_id": "848f4eb1-deee-41a0-b881-914337c9734f"
+      }
+    ],
+    "customer": [
+      {
+        "id": "718b7faf-c426-4c89-b778-77254be90c53",
+        "created_at": "2023-09-19T17:07:11.242Z",
+        "updated_at": "2023-09-20T00:53:42.533Z"
+      },
+      {
+        "id": "441647e1-1a0c-44db-83ab-1ae9c4595f79",
+        "created_at": "2023-09-20T03:38:26.620Z",
+        "updated_at": "2023-09-20T03:57:23.985Z"
+      },
+      {
+        "id": "ee292a8c-db4b-4bc6-aeb7-2f51c41c8e27",
+        "created_at": "2023-09-20T05:40:41.450Z",
+        "updated_at": "2023-09-19T16:50:07.703Z"
+      },
+      {
+        "id": "1ef06355-f20f-44b0-ac88-fc34eb7a76e4",
+        "created_at": "2023-09-19T17:57:15.638Z",
+        "updated_at": "2023-09-20T12:46:50.580Z"
+      },
+      {
+        "id": "a4a7439e-c95f-483f-9349-a106ec57e7b7",
+        "created_at": "2023-09-19T21:20:21.733Z",
+        "updated_at": "2023-09-19T22:42:56.837Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "96300bd4-d67d-4afc-be94-9440bbb63881",
+        "created_at": "2023-09-19T23:44:12.612Z",
+        "updated_at": "2023-09-20T09:22:36.953Z"
+      },
+      {
+        "id": "a4a60be1-0e36-41aa-86d7-c4ce8a6ac19f",
+        "created_at": "2023-09-20T07:10:36.880Z",
+        "updated_at": "2023-09-19T16:53:18.975Z"
+      },
+      {
+        "id": "9b61aec4-da2a-4b90-87dd-e59263e3f746",
+        "created_at": "2023-09-20T11:51:33.506Z",
+        "updated_at": "2023-09-20T10:42:57.601Z"
+      },
+      {
+        "id": "fca95fd3-102e-4fbc-ab2a-d2dc299e38bb",
+        "created_at": "2023-09-20T01:45:18.123Z",
+        "updated_at": "2023-09-19T21:14:27.442Z"
+      },
+      {
+        "id": "a3041d10-38fc-4307-96fb-9c6d13477db7",
+        "created_at": "2023-09-20T04:55:24.463Z",
+        "updated_at": "2023-09-20T00:28:50.692Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "691779c5-aa73-433d-97b1-c63db3448ac2",
+        "email": "Lavina_Rath93@hotmail.com",
+        "firstName": "Triston",
+        "lastName": "Bergstrom",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98022347",
+        "tenantId": null
+      },
+      {
+        "reference": "46c6f70d-690c-4665-85ff-c6d6a0f7c42f",
+        "email": "Branson.Shields53@yahoo.com",
+        "firstName": "Mario",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81612190",
+        "tenantId": null
+      },
+      {
+        "reference": "ec9a0ea6-248a-4253-9bd3-aec95a3f00d1",
+        "email": "Romaine_Predovic@gmail.com",
+        "firstName": "Alice",
+        "lastName": "Ebert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55280714",
+        "tenantId": null
+      },
+      {
+        "reference": "94fd2d79-bf56-4173-afac-b505c24d6415",
+        "email": "Noemie_Tremblay-Denesik62@hotmail.com",
+        "firstName": "Antonia",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33808357",
+        "tenantId": null
+      },
+      {
+        "reference": "df2cd553-1510-4e9d-b84b-8288fffb7a75",
+        "email": "Sheila60@yahoo.com",
+        "firstName": "Deborah",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/711.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "31a98f55-9e71-40d4-9f02-fcdf8ac45850",
+        "created_at": "2023-09-20T02:05:21.873Z",
+        "updated_at": "2023-09-20T11:45:42.368Z"
+      },
+      {
+        "id": "597b1e1b-e24e-4ad8-a59c-f528bad1cccc",
+        "created_at": "2023-09-20T09:43:26.838Z",
+        "updated_at": "2023-09-20T12:30:54.393Z"
+      },
+      {
+        "id": "7972573f-4e25-4d00-9f2a-1e9c6127290f",
+        "created_at": "2023-09-19T22:39:55.266Z",
+        "updated_at": "2023-09-19T23:49:47.378Z"
+      },
+      {
+        "id": "f0a258f6-ffea-4b94-a3b3-37e48e4de413",
+        "created_at": "2023-09-20T03:33:23.497Z",
+        "updated_at": "2023-09-19T23:33:22.475Z"
+      },
+      {
+        "id": "14f198ff-464e-4f9f-8387-ade6c42d2482",
+        "created_at": "2023-09-19T21:04:33.352Z",
+        "updated_at": "2023-09-20T11:18:38.266Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "3bfb1d25-a3c2-45a2-8201-d374b5549a82",
+        "created_at": "2023-09-20T07:05:54.455Z",
+        "updated_at": "2023-09-20T03:15:51.911Z"
+      },
+      {
+        "id": "e0c138b1-4f6c-44b4-8c7f-ed788788263a",
+        "created_at": "2023-09-19T19:07:03.982Z",
+        "updated_at": "2023-09-20T10:08:19.528Z"
+      },
+      {
+        "id": "9f192ddc-d2c0-4bba-bcfe-88c736627cd0",
+        "created_at": "2023-09-20T06:06:04.580Z",
+        "updated_at": "2023-09-20T01:24:56.256Z"
+      },
+      {
+        "id": "d62b8a0d-3b9f-488f-a60e-7e6911f212ec",
+        "created_at": "2023-09-20T10:32:00.124Z",
+        "updated_at": "2023-09-20T02:06:05.390Z"
+      },
+      {
+        "id": "043478e3-1bbb-496b-8138-efe9308064c6",
+        "created_at": "2023-09-20T00:19:54.638Z",
+        "updated_at": "2023-09-20T09:35:45.746Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "4e1ca9e0-1798-40d8-8f22-3fcab275c2d8",
+        "created_at": "2023-09-20T12:01:12.550Z",
+        "updated_at": "2023-09-19T23:30:01.440Z"
+      },
+      {
+        "id": "599f5fcc-6c47-404a-8579-c327b1c517d2",
+        "created_at": "2023-09-19T23:40:32.757Z",
+        "updated_at": "2023-09-20T13:03:51.588Z"
+      },
+      {
+        "id": "23a55f05-816f-40b1-83ea-530d4cc9ef3f",
+        "created_at": "2023-09-20T12:46:01.807Z",
+        "updated_at": "2023-09-20T06:29:50.726Z"
+      },
+      {
+        "id": "aa989db9-4056-4813-9352-8577eef96aa7",
+        "created_at": "2023-09-19T17:45:16.868Z",
+        "updated_at": "2023-09-20T08:53:50.480Z"
+      },
+      {
+        "id": "c268c256-84eb-4f33-be15-c932ef964944",
+        "created_at": "2023-09-20T10:00:43.220Z",
+        "updated_at": "2023-09-19T16:59:55.427Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "ec5345f2-b5fa-4554-84fb-2d710a8f4ea1",
+        "unit_number": 55600,
+        "size": "Small",
+        "availability_status": true,
+        "rent_price": 90415,
+        "last_maintenance_date": "2023-09-20T00:38:06.342Z",
+        "created_at": "2023-09-20T07:44:49.734Z",
+        "updated_at": "2023-09-20T03:21:44.522Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "4e77c67f-a3f0-4bb9-835b-2496b4461be1",
+        "unit_number": 27381,
+        "size": "Medium",
+        "availability_status": true,
+        "rent_price": 22549,
+        "last_maintenance_date": "2023-09-20T04:16:21.757Z",
+        "created_at": "2023-09-20T08:53:46.699Z",
+        "updated_at": "2023-09-20T09:47:26.053Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "fb16ca4e-4a2f-4f0c-9203-48a37ade9fcf",
+        "unit_number": 59895,
+        "size": "Large",
+        "availability_status": true,
+        "rent_price": 16148,
+        "last_maintenance_date": "2023-09-19T14:19:32.466Z",
+        "created_at": "2023-09-20T08:06:03.560Z",
+        "updated_at": "2023-09-20T13:31:27.339Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6ac20e43-0514-4749-8fa5-eb26d9776605",
+        "unit_number": 88391,
+        "size": "Extra Large",
+        "availability_status": false,
+        "rent_price": 48684,
+        "last_maintenance_date": "2023-09-20T09:04:13.608Z",
+        "created_at": "2023-09-20T12:30:56.025Z",
+        "updated_at": "2023-09-20T03:33:00.486Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6205eca5-a12f-466b-8f51-5aee0d4e842e",
+        "unit_number": 87811,
+        "size": "Jumbo",
+        "availability_status": true,
+        "rent_price": 3522,
+        "last_maintenance_date": "2023-09-20T02:29:21.131Z",
+        "created_at": "2023-09-19T14:10:19.229Z",
+        "updated_at": "2023-09-19T17:13:29.876Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "ccc0b183-4bc2-4020-9a74-3402134988d5",
+        "start_date": "2023-09-20T00:04:05.461Z",
+        "end_date": "2023-09-19T17:40:01.462Z",
+        "total_cost": 91286,
+        "payment_status": false,
+        "created_at": "2023-09-19T18:59:24.538Z",
+        "updated_at": "2023-09-19T14:14:10.337Z",
+        "storage_unit_id": "4e77c67f-a3f0-4bb9-835b-2496b4461be1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9bac5ec-d903-480f-b1d1-61bee83bc5fe",
+        "start_date": "2023-09-19T23:10:31.849Z",
+        "end_date": "2023-09-20T06:38:01.345Z",
+        "total_cost": 38610,
+        "payment_status": true,
+        "created_at": "2023-09-19T16:04:08.273Z",
+        "updated_at": "2023-09-19T17:26:14.265Z",
+        "storage_unit_id": "4e77c67f-a3f0-4bb9-835b-2496b4461be1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a50e9706-f419-4888-9eb6-3e163b327cd0",
+        "start_date": "2023-09-20T05:08:29.886Z",
+        "end_date": "2023-09-20T06:26:46.574Z",
+        "total_cost": 40036,
+        "payment_status": true,
+        "created_at": "2023-09-20T11:14:01.699Z",
+        "updated_at": "2023-09-20T02:18:54.974Z",
+        "storage_unit_id": "6205eca5-a12f-466b-8f51-5aee0d4e842e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b963dd5-d3a1-412f-ac62-522af17efd31",
+        "start_date": "2023-09-19T22:52:15.777Z",
+        "end_date": "2023-09-19T23:55:15.280Z",
+        "total_cost": 83563,
+        "payment_status": true,
+        "created_at": "2023-09-19T23:48:37.301Z",
+        "updated_at": "2023-09-20T02:10:36.696Z",
+        "storage_unit_id": "6ac20e43-0514-4749-8fa5-eb26d9776605",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2beeee9f-e919-4047-8d8d-af5d4a705ecf",
+        "start_date": "2023-09-19T20:07:16.124Z",
+        "end_date": "2023-09-20T11:33:46.135Z",
+        "total_cost": 20560,
+        "payment_status": false,
+        "created_at": "2023-09-20T12:19:05.140Z",
+        "updated_at": "2023-09-20T10:30:25.810Z",
+        "storage_unit_id": "6205eca5-a12f-466b-8f51-5aee0d4e842e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "4e398438-0cb1-4771-a06e-2e07fcec407a",
+        "maintenance_date": "2023-09-20T04:37:54.021Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance checkup",
+        "cost": 15490,
+        "created_at": "2023-09-19T14:46:22.245Z",
+        "updated_at": "2023-09-20T09:43:58.490Z",
+        "storage_unit_id": "ec5345f2-b5fa-4554-84fb-2d710a8f4ea1"
+      },
+      {
+        "id": "21da4ebe-63eb-40e4-bc3a-83bb99459c35",
+        "maintenance_date": "2023-09-19T16:26:04.528Z",
+        "maintenance_type": "Preventive",
+        "description": "Scheduled maintenance for equipment",
+        "cost": 82482,
+        "created_at": "2023-09-20T01:05:28.408Z",
+        "updated_at": "2023-09-19T21:09:58.596Z",
+        "storage_unit_id": "6205eca5-a12f-466b-8f51-5aee0d4e842e"
+      },
+      {
+        "id": "441d7fa5-e41a-4946-9909-23fd681e5634",
+        "maintenance_date": "2023-09-19T17:10:32.507Z",
+        "maintenance_type": "Corrective",
+        "description": "Fixing a malfunctioning machine",
+        "cost": 60245,
+        "created_at": "2023-09-20T06:10:32.381Z",
+        "updated_at": "2023-09-20T00:08:39.434Z",
+        "storage_unit_id": "6ac20e43-0514-4749-8fa5-eb26d9776605"
+      },
+      {
+        "id": "43a61e6e-97cf-49e1-9983-068490bac7f9",
+        "maintenance_date": "2023-09-19T23:32:37.760Z",
+        "maintenance_type": "Emergency",
+        "description": "Emergency repair due to equipment failure",
+        "cost": 6051,
+        "created_at": "2023-09-20T01:14:48.777Z",
+        "updated_at": "2023-09-20T08:48:04.581Z",
+        "storage_unit_id": "4e77c67f-a3f0-4bb9-835b-2496b4461be1"
+      },
+      {
+        "id": "d6d12d16-2982-46fe-a999-4d2ca069eb94",
+        "maintenance_date": "2023-09-19T23:49:09.304Z",
+        "maintenance_type": "Scheduled",
+        "description": "Planned maintenance for system upgrade",
+        "cost": 2590,
+        "created_at": "2023-09-20T05:41:13.208Z",
+        "updated_at": "2023-09-19T20:27:31.000Z",
+        "storage_unit_id": "6205eca5-a12f-466b-8f51-5aee0d4e842e"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "839ae51c-9fe6-4471-b014-57fe12f87e68",
+        "item_name": "Widget",
+        "quantity": 68335,
+        "location": "Warehouse A",
+        "last_updated": "2023-09-20T10:32:24.158Z",
+        "created_at": "2023-09-20T03:38:51.478Z",
+        "updated_at": "2023-09-20T09:39:11.607Z",
+        "storage_unit_id": "6205eca5-a12f-466b-8f51-5aee0d4e842e"
+      },
+      {
+        "id": "68000b8e-7626-405b-ae95-c443a98e0396",
+        "item_name": "Gadget",
+        "quantity": 86431,
+        "location": "Warehouse B",
+        "last_updated": "2023-09-19T21:27:48.994Z",
+        "created_at": "2023-09-19T23:08:49.277Z",
+        "updated_at": "2023-09-19T16:22:26.333Z",
+        "storage_unit_id": "fb16ca4e-4a2f-4f0c-9203-48a37ade9fcf"
+      },
+      {
+        "id": "b117c014-5232-4c33-9555-df65d41469a5",
+        "item_name": "Tool",
+        "quantity": 98883,
+        "location": "Storage Room",
+        "last_updated": "2023-09-19T20:49:25.288Z",
+        "created_at": "2023-09-20T06:29:51.336Z",
+        "updated_at": "2023-09-20T00:48:26.617Z",
+        "storage_unit_id": "6205eca5-a12f-466b-8f51-5aee0d4e842e"
+      },
+      {
+        "id": "6fac6a1c-2d8e-486f-8637-966c39f973ef",
+        "item_name": "Appliance",
+        "quantity": 56194,
+        "location": "Shelf C",
+        "last_updated": "2023-09-19T15:18:23.698Z",
+        "created_at": "2023-09-20T08:31:24.089Z",
+        "updated_at": "2023-09-20T12:53:14.850Z",
+        "storage_unit_id": "6205eca5-a12f-466b-8f51-5aee0d4e842e"
+      },
+      {
+        "id": "4575d89a-7fa4-4183-8142-3296de8b70b4",
+        "item_name": "Accessory",
+        "quantity": 39957,
+        "location": "Bin D",
+        "last_updated": "2023-09-20T08:13:20.730Z",
+        "created_at": "2023-09-19T15:23:12.640Z",
+        "updated_at": "2023-09-20T10:07:09.430Z",
+        "storage_unit_id": "4e77c67f-a3f0-4bb9-835b-2496b4461be1"
+      }
+    ],
+    "customer": [
+      {
+        "id": "ffb6c054-527a-4ce7-a0fd-4f6619f01238",
+        "created_at": "2023-09-20T03:15:11.174Z",
+        "updated_at": "2023-09-19T23:02:00.326Z"
+      },
+      {
+        "id": "4f78f4ec-7cc7-4c9a-abfb-c313aa57970f",
+        "created_at": "2023-09-19T21:38:02.907Z",
+        "updated_at": "2023-09-19T21:08:55.185Z"
+      },
+      {
+        "id": "4b21dc2b-8027-47b4-8b83-84d1ca13d1ca",
+        "created_at": "2023-09-20T04:13:58.438Z",
+        "updated_at": "2023-09-19T21:06:46.298Z"
+      },
+      {
+        "id": "c292ee64-65e5-488f-a8c2-8888f2c5b9dc",
+        "created_at": "2023-09-19T21:00:19.912Z",
+        "updated_at": "2023-09-20T01:15:38.840Z"
+      },
+      {
+        "id": "132094c6-5196-49da-bcba-a73f914e1de3",
+        "created_at": "2023-09-20T08:11:23.923Z",
+        "updated_at": "2023-09-19T17:48:50.111Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "a450de4c-b38c-4ab4-8881-6e182a055adb",
+        "created_at": "2023-09-20T05:08:36.466Z",
+        "updated_at": "2023-09-19T20:55:49.957Z"
+      },
+      {
+        "id": "65ab877d-4481-4514-8605-4caa212c6273",
+        "created_at": "2023-09-20T04:33:03.106Z",
+        "updated_at": "2023-09-19T19:44:42.543Z"
+      },
+      {
+        "id": "cf0c2d4d-2399-46f6-bdc4-5c8fde7e39aa",
+        "created_at": "2023-09-20T06:54:41.020Z",
+        "updated_at": "2023-09-20T07:17:37.403Z"
+      },
+      {
+        "id": "24e757a8-91ec-4f1e-a803-bb6487685392",
+        "created_at": "2023-09-20T04:20:52.713Z",
+        "updated_at": "2023-09-19T16:22:04.467Z"
+      },
+      {
+        "id": "a73ac3bf-3610-4c97-9ce0-6ff7521ce725",
+        "created_at": "2023-09-20T05:37:21.265Z",
+        "updated_at": "2023-09-20T07:15:15.432Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "97d4b1fc-2ac9-45ef-9cb0-9e869b19c511",
+        "email": "Retha44@gmail.com",
+        "firstName": "Susan",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1146.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4c619c6b-8cc1-4cf2-ac60-dfc7843e8493",
+        "email": "Jadyn4@gmail.com",
+        "firstName": "Lonny",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/534.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b641cf9b-53ab-4ec2-ab57-e922fa764375",
+        "email": "Maureen_Jones@hotmail.com",
+        "firstName": "Jonathan",
+        "lastName": "Dare-Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29478147",
+        "tenantId": null
+      },
+      {
+        "reference": "43c8e539-9d6d-4624-97fa-25422c97321a",
+        "email": "Fanny88@gmail.com",
+        "firstName": "Jettie",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63508724",
+        "tenantId": null
+      },
+      {
+        "reference": "5d15189f-93e2-43dd-b00e-9e1b9516ece8",
+        "email": "Nikko9@gmail.com",
+        "firstName": "Solon",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/521.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "9d661381-c75b-4b7e-a269-1468d0396c47",
+        "created_at": "2023-09-20T02:51:55.912Z",
+        "updated_at": "2023-09-19T14:45:09.059Z"
+      },
+      {
+        "id": "528784c1-4689-41a2-b22b-a7303ff7131a",
+        "created_at": "2023-09-19T17:14:44.617Z",
+        "updated_at": "2023-09-19T22:42:41.765Z"
+      },
+      {
+        "id": "22a171b8-ae72-4f67-9168-6391df40323a",
+        "created_at": "2023-09-19T14:09:10.575Z",
+        "updated_at": "2023-09-20T11:00:46.592Z"
+      },
+      {
+        "id": "225337cc-5b9c-4ae0-bdcb-c23a6d901fca",
+        "created_at": "2023-09-20T12:10:56.174Z",
+        "updated_at": "2023-09-20T02:29:47.734Z"
+      },
+      {
+        "id": "48a3d8f8-21bb-4f10-b290-3ce130a901fb",
+        "created_at": "2023-09-20T06:22:13.717Z",
+        "updated_at": "2023-09-19T17:53:50.616Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "7a1792d7-c8a8-4bcc-a46e-89e4981ed642",
+        "created_at": "2023-09-19T21:14:03.181Z",
+        "updated_at": "2023-09-19T20:39:09.936Z"
+      },
+      {
+        "id": "6323772b-45e8-4480-b0f9-72835dbcac91",
+        "created_at": "2023-09-19T21:53:00.260Z",
+        "updated_at": "2023-09-20T12:52:37.555Z"
+      },
+      {
+        "id": "0f88d2f4-4821-4420-8f1a-3b5e9602d451",
+        "created_at": "2023-09-19T17:26:11.479Z",
+        "updated_at": "2023-09-20T06:15:33.368Z"
+      },
+      {
+        "id": "54b02488-48b4-43a3-ac95-e206413c2577",
+        "created_at": "2023-09-19T19:55:22.915Z",
+        "updated_at": "2023-09-20T04:10:10.557Z"
+      },
+      {
+        "id": "3181714d-310f-4fe5-a873-f2c3ce54f882",
+        "created_at": "2023-09-19T23:31:10.017Z",
+        "updated_at": "2023-09-19T23:48:23.836Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "ca60b8d7-d0d8-4211-b2f7-350825d9cdee",
+        "created_at": "2023-09-20T01:12:35.307Z",
+        "updated_at": "2023-09-20T01:19:16.841Z"
+      },
+      {
+        "id": "c797dbdb-c7ac-40db-a9c4-aae5e03fdea9",
+        "created_at": "2023-09-19T19:26:51.789Z",
+        "updated_at": "2023-09-20T07:52:34.039Z"
+      },
+      {
+        "id": "3803756d-1e59-4863-b906-0bdf25269e93",
+        "created_at": "2023-09-20T08:51:25.486Z",
+        "updated_at": "2023-09-19T16:27:18.335Z"
+      },
+      {
+        "id": "4a41e667-54a2-4f91-9747-e33d4e27bdd0",
+        "created_at": "2023-09-20T07:42:53.421Z",
+        "updated_at": "2023-09-19T21:22:23.758Z"
+      },
+      {
+        "id": "e0581512-cd65-460d-81cf-bd96b5cd2732",
+        "created_at": "2023-09-20T09:12:21.511Z",
+        "updated_at": "2023-09-19T18:51:45.289Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "4b9f967c-4ad0-4586-9a4e-54edb952393e",
+        "unit_number": 18087,
+        "size": "Small",
+        "availability_status": false,
+        "rent_price": 10380,
+        "last_maintenance_date": "2023-09-20T10:10:01.185Z",
+        "created_at": "2023-09-20T08:30:46.569Z",
+        "updated_at": "2023-09-20T04:35:02.671Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "9fd233e5-5d67-40db-a561-1ae6d38c9d9a",
+        "unit_number": 48885,
+        "size": "Medium",
+        "availability_status": false,
+        "rent_price": 96359,
+        "last_maintenance_date": "2023-09-19T23:16:11.055Z",
+        "created_at": "2023-09-20T00:14:34.742Z",
+        "updated_at": "2023-09-19T14:36:09.188Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "95a13e43-6692-4977-b778-41939630e8c4",
+        "unit_number": 16543,
+        "size": "Large",
+        "availability_status": true,
+        "rent_price": 80092,
+        "last_maintenance_date": "2023-09-19T23:09:37.798Z",
+        "created_at": "2023-09-19T19:31:45.527Z",
+        "updated_at": "2023-09-19T14:00:48.511Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f04a126d-7886-4514-9581-f6f7d5b5cbf4",
+        "unit_number": 62569,
+        "size": "Extra Large",
+        "availability_status": true,
+        "rent_price": 15220,
+        "last_maintenance_date": "2023-09-19T23:38:37.507Z",
+        "created_at": "2023-09-20T10:12:14.559Z",
+        "updated_at": "2023-09-19T19:26:45.547Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "add7a51e-4bcf-4c05-9b9b-f3e3629b99f9",
+        "unit_number": 32420,
+        "size": "Custom",
+        "availability_status": true,
+        "rent_price": 80017,
+        "last_maintenance_date": "2023-09-20T07:23:02.006Z",
+        "created_at": "2023-09-20T08:00:33.827Z",
+        "updated_at": "2023-09-20T08:29:59.495Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "52f045cb-75b4-4cf4-9ea4-27810e74612c",
+        "start_date": "2023-09-19T18:38:10.416Z",
+        "end_date": "2023-09-20T07:21:48.956Z",
+        "total_cost": 68462,
+        "payment_status": false,
+        "created_at": "2023-09-19T23:55:14.696Z",
+        "updated_at": "2023-09-20T02:59:20.344Z",
+        "storage_unit_id": "4b9f967c-4ad0-4586-9a4e-54edb952393e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13d5f1b7-115e-4be2-93e8-c3991f95db01",
+        "start_date": "2023-09-20T04:00:30.018Z",
+        "end_date": "2023-09-20T08:31:53.879Z",
+        "total_cost": 72127,
+        "payment_status": true,
+        "created_at": "2023-09-19T21:59:39.944Z",
+        "updated_at": "2023-09-20T00:17:05.507Z",
+        "storage_unit_id": "95a13e43-6692-4977-b778-41939630e8c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69d8629d-bd9b-42ea-8395-be507e15eea6",
+        "start_date": "2023-09-19T14:45:19.545Z",
+        "end_date": "2023-09-20T09:55:40.755Z",
+        "total_cost": 30876,
+        "payment_status": true,
+        "created_at": "2023-09-20T03:17:44.227Z",
+        "updated_at": "2023-09-20T02:41:09.672Z",
+        "storage_unit_id": "95a13e43-6692-4977-b778-41939630e8c4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "daf52094-1245-4c65-ab13-1c54ae81face",
+        "start_date": "2023-09-19T16:33:40.412Z",
+        "end_date": "2023-09-20T04:05:50.285Z",
+        "total_cost": 48095,
+        "payment_status": false,
+        "created_at": "2023-09-19T19:02:52.690Z",
+        "updated_at": "2023-09-20T06:37:35.491Z",
+        "storage_unit_id": "f04a126d-7886-4514-9581-f6f7d5b5cbf4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "457e803c-237b-4c87-b9ab-2f65f1633472",
+        "start_date": "2023-09-20T00:04:58.874Z",
+        "end_date": "2023-09-19T16:20:27.738Z",
+        "total_cost": 76216,
+        "payment_status": true,
+        "created_at": "2023-09-19T23:48:51.165Z",
+        "updated_at": "2023-09-20T09:28:34.456Z",
+        "storage_unit_id": "4b9f967c-4ad0-4586-9a4e-54edb952393e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "06f18951-87a5-44ad-8a69-1e3f8580963f",
+        "maintenance_date": "2023-09-20T04:06:55.549Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance to ensure optimal performance",
+        "cost": 77751,
+        "created_at": "2023-09-20T02:04:43.089Z",
+        "updated_at": "2023-09-19T16:30:00.111Z",
+        "storage_unit_id": "add7a51e-4bcf-4c05-9b9b-f3e3629b99f9"
+      },
+      {
+        "id": "ea566fd2-19f1-4331-94b6-f2a2b8208ea9",
+        "maintenance_date": "2023-09-19T17:28:04.563Z",
+        "maintenance_type": "Preventive",
+        "description": "Scheduled maintenance to prevent potential issues",
+        "cost": 65624,
+        "created_at": "2023-09-20T02:58:18.053Z",
+        "updated_at": "2023-09-20T07:11:08.286Z",
+        "storage_unit_id": "4b9f967c-4ad0-4586-9a4e-54edb952393e"
+      },
+      {
+        "id": "8d8b990b-03f2-4b44-be0c-d000fde457e2",
+        "maintenance_date": "2023-09-20T00:33:07.479Z",
+        "maintenance_type": "Corrective",
+        "description": "Repairing faulty equipment or systems",
+        "cost": 998,
+        "created_at": "2023-09-20T12:20:32.674Z",
+        "updated_at": "2023-09-20T02:17:13.286Z",
+        "storage_unit_id": "f04a126d-7886-4514-9581-f6f7d5b5cbf4"
+      },
+      {
+        "id": "9c327040-92fb-44f0-97d5-634e1659b8ed",
+        "maintenance_date": "2023-09-19T19:25:16.688Z",
+        "maintenance_type": "Emergency",
+        "description": "Urgent maintenance required to address immediate problems",
+        "cost": 67200,
+        "created_at": "2023-09-20T06:58:00.506Z",
+        "updated_at": "2023-09-20T02:31:54.112Z",
+        "storage_unit_id": "95a13e43-6692-4977-b778-41939630e8c4"
+      },
+      {
+        "id": "2689f5d8-7a87-4658-99b6-778daf53effa",
+        "maintenance_date": "2023-09-19T15:39:11.441Z",
+        "maintenance_type": "Predictive",
+        "description": "Using data analysis to predict maintenance needs",
+        "cost": 45942,
+        "created_at": "2023-09-20T10:36:04.069Z",
+        "updated_at": "2023-09-19T22:12:03.343Z",
+        "storage_unit_id": "f04a126d-7886-4514-9581-f6f7d5b5cbf4"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "b0ca4671-689d-4896-a98c-23a952341ab6",
+        "item_name": "Chair",
+        "quantity": 29419,
+        "location": "Office",
+        "last_updated": "2023-09-20T09:25:39.964Z",
+        "created_at": "2023-09-20T10:47:03.831Z",
+        "updated_at": "2023-09-20T04:11:47.467Z",
+        "storage_unit_id": "4b9f967c-4ad0-4586-9a4e-54edb952393e"
+      },
+      {
+        "id": "c96006a3-6bba-4387-9a0c-0720998756d1",
+        "item_name": "Table",
+        "quantity": 15321,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T06:48:36.587Z",
+        "created_at": "2023-09-19T16:54:17.858Z",
+        "updated_at": "2023-09-19T23:05:38.292Z",
+        "storage_unit_id": "f04a126d-7886-4514-9581-f6f7d5b5cbf4"
+      },
+      {
+        "id": "262c3bb4-f163-4098-8ff0-67d81f610d57",
+        "item_name": "Desk",
+        "quantity": 80482,
+        "location": "Store",
+        "last_updated": "2023-09-19T19:12:38.471Z",
+        "created_at": "2023-09-20T05:53:40.123Z",
+        "updated_at": "2023-09-20T10:04:54.027Z",
+        "storage_unit_id": "f04a126d-7886-4514-9581-f6f7d5b5cbf4"
+      },
+      {
+        "id": "6ee7b17d-b448-4739-b5f0-de0d9483c462",
+        "item_name": "Shelf",
+        "quantity": 50123,
+        "location": "Workshop",
+        "last_updated": "2023-09-20T04:13:09.400Z",
+        "created_at": "2023-09-20T12:06:46.470Z",
+        "updated_at": "2023-09-19T23:03:46.234Z",
+        "storage_unit_id": "4b9f967c-4ad0-4586-9a4e-54edb952393e"
+      },
+      {
+        "id": "7dd3b267-5fda-4cd0-9275-d9bac1fc3fb7",
+        "item_name": "Cabinet",
+        "quantity": 49572,
+        "location": "Showroom",
+        "last_updated": "2023-09-19T21:22:13.803Z",
+        "created_at": "2023-09-20T10:38:00.701Z",
+        "updated_at": "2023-09-19T21:29:37.058Z",
+        "storage_unit_id": "f04a126d-7886-4514-9581-f6f7d5b5cbf4"
+      }
+    ],
+    "customer": [
+      {
+        "id": "7727804c-c5b4-4bf4-99f8-911ca41a97b5",
+        "created_at": "2023-09-19T21:15:15.269Z",
+        "updated_at": "2023-09-19T23:12:08.314Z"
+      },
+      {
+        "id": "aad7c1cf-7d01-4cf6-a0a1-d37098f5fb6c",
+        "created_at": "2023-09-19T16:32:14.421Z",
+        "updated_at": "2023-09-19T22:03:59.940Z"
+      },
+      {
+        "id": "50735019-e949-410a-b64c-4f9748150041",
+        "created_at": "2023-09-20T07:43:40.675Z",
+        "updated_at": "2023-09-19T17:53:03.315Z"
+      },
+      {
+        "id": "098fd6fb-e3bc-4778-960f-8c009b5340c2",
+        "created_at": "2023-09-19T14:46:06.618Z",
+        "updated_at": "2023-09-20T11:54:17.411Z"
+      },
+      {
+        "id": "5656e792-4efa-4772-a1e9-95179079ff25",
+        "created_at": "2023-09-20T09:27:47.934Z",
+        "updated_at": "2023-09-20T00:59:53.888Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "a655cb32-c02c-434a-963c-c110cd661a3c",
+        "created_at": "2023-09-19T14:49:03.353Z",
+        "updated_at": "2023-09-20T05:43:39.489Z"
+      },
+      {
+        "id": "6099acc5-93f9-448e-93ac-729817c73010",
+        "created_at": "2023-09-19T19:17:41.559Z",
+        "updated_at": "2023-09-20T09:50:44.447Z"
+      },
+      {
+        "id": "d7e04e87-055b-411f-be4c-e4254ee46b62",
+        "created_at": "2023-09-20T08:54:22.726Z",
+        "updated_at": "2023-09-19T20:38:26.982Z"
+      },
+      {
+        "id": "cfe4a997-b5de-4740-913a-24c97a0da39d",
+        "created_at": "2023-09-19T15:28:59.081Z",
+        "updated_at": "2023-09-20T08:20:20.587Z"
+      },
+      {
+        "id": "ab722b29-e0dc-4e60-973a-b98db6dbedbf",
+        "created_at": "2023-09-19T17:21:29.526Z",
+        "updated_at": "2023-09-19T18:15:44.879Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5f23f7cb-3f5c-4fee-9265-6f3ff6ce7dd8",
+        "email": "Westley80@hotmail.com",
+        "firstName": "Carley",
+        "lastName": "Keebler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/828.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9498f135-43d8-4d62-afc1-1470bf0a018f",
+        "email": "Reina_Ziemann@hotmail.com",
+        "firstName": "Noemy",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/49.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "33c63e11-c3fa-45fc-930d-df2cf7b50446",
+        "email": "Josephine12@hotmail.com",
+        "firstName": "Tamia",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8537406",
+        "tenantId": null
+      },
+      {
+        "reference": "37c1c591-65c8-47b6-885f-328a490eef34",
+        "email": "Xander.Wolf@hotmail.com",
+        "firstName": "Alberto",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85273814",
+        "tenantId": null
+      },
+      {
+        "reference": "70775b2d-9765-4831-babc-76002eccc86e",
+        "email": "Maria_Wisoky@hotmail.com",
+        "firstName": "Audrey",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/64.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "storage_location": [
+      {
+        "id": "d7fb32e9-2bdd-4fdc-b4cf-6eca027060c2",
+        "created_at": "2023-09-20T01:26:52.960Z",
+        "updated_at": "2023-09-19T18:03:39.133Z"
+      },
+      {
+        "id": "f430996b-65d1-47d4-8bca-2c2505e1cbe8",
+        "created_at": "2023-09-19T17:12:20.438Z",
+        "updated_at": "2023-09-20T01:37:28.197Z"
+      },
+      {
+        "id": "91a92aee-540d-4283-950a-7a1eaf971ae0",
+        "created_at": "2023-09-20T09:44:25.784Z",
+        "updated_at": "2023-09-20T09:52:32.619Z"
+      },
+      {
+        "id": "2cd450a8-ea09-4554-8880-afff3e1e2133",
+        "created_at": "2023-09-20T04:00:06.599Z",
+        "updated_at": "2023-09-19T13:53:59.300Z"
+      },
+      {
+        "id": "6809128c-bbbd-4c57-b10e-a7aac38148ef",
+        "created_at": "2023-09-19T19:49:33.859Z",
+        "updated_at": "2023-09-19T22:09:11.623Z"
+      }
+    ],
+    "security": [
+      {
+        "id": "98e6f0a0-e67a-4405-9c33-e71c90db77cd",
+        "created_at": "2023-09-20T00:02:06.335Z",
+        "updated_at": "2023-09-19T16:47:02.109Z"
+      },
+      {
+        "id": "e69c1d44-990f-4af3-b7f3-189fbeb44e4e",
+        "created_at": "2023-09-20T00:52:56.376Z",
+        "updated_at": "2023-09-20T08:06:22.117Z"
+      },
+      {
+        "id": "e2a2375f-8e22-4b5b-b4be-5e5d10b46f52",
+        "created_at": "2023-09-20T04:07:24.414Z",
+        "updated_at": "2023-09-20T06:03:21.433Z"
+      },
+      {
+        "id": "251c0817-f9bd-4fb7-9f7d-de442451ebea",
+        "created_at": "2023-09-20T13:22:29.925Z",
+        "updated_at": "2023-09-19T16:45:55.261Z"
+      },
+      {
+        "id": "76788de2-8f05-4fa3-9848-16650fde7d3c",
+        "created_at": "2023-09-20T00:22:48.100Z",
+        "updated_at": "2023-09-19T19:12:03.628Z"
+      }
+    ],
+    "payment": [
+      {
+        "id": "ca22e13f-e6cc-4605-bf17-e6317cebd4f5",
+        "created_at": "2023-09-20T06:47:59.672Z",
+        "updated_at": "2023-09-20T06:02:02.263Z"
+      },
+      {
+        "id": "94827e72-6f14-4e3d-8621-523e8a9aecdd",
+        "created_at": "2023-09-20T09:26:46.602Z",
+        "updated_at": "2023-09-19T20:09:08.220Z"
+      },
+      {
+        "id": "f5fc18e0-1ef7-4bfd-9c75-7945c36d7fbd",
+        "created_at": "2023-09-20T07:53:56.797Z",
+        "updated_at": "2023-09-20T01:09:48.100Z"
+      },
+      {
+        "id": "c37daf88-79d4-452f-841a-50605910a9f2",
+        "created_at": "2023-09-20T01:59:32.301Z",
+        "updated_at": "2023-09-19T15:27:52.131Z"
+      },
+      {
+        "id": "54c434dd-3960-4847-9747-26c43ac38578",
+        "created_at": "2023-09-20T02:47:27.720Z",
+        "updated_at": "2023-09-19T15:09:22.859Z"
+      }
+    ],
+    "storage_unit": [
+      {
+        "id": "a3807ee2-8e90-4b99-9d93-26a0787d97aa",
+        "unit_number": 99731,
+        "size": "Small",
+        "availability_status": false,
+        "rent_price": 85658,
+        "last_maintenance_date": "2023-09-19T14:30:02.286Z",
+        "created_at": "2023-09-20T07:00:28.457Z",
+        "updated_at": "2023-09-19T22:48:16.631Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c7cb1162-ca04-4595-b6f0-49e8b47482dc",
+        "unit_number": 32463,
+        "size": "Medium",
+        "availability_status": true,
+        "rent_price": 93025,
+        "last_maintenance_date": "2023-09-20T08:09:30.951Z",
+        "created_at": "2023-09-20T05:23:25.032Z",
+        "updated_at": "2023-09-19T16:59:25.254Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "96dff227-9b11-4e9e-b628-fa98d8f754c3",
+        "unit_number": 99122,
+        "size": "Large",
+        "availability_status": false,
+        "rent_price": 66397,
+        "last_maintenance_date": "2023-09-19T19:10:11.968Z",
+        "created_at": "2023-09-20T11:35:58.055Z",
+        "updated_at": "2023-09-20T13:36:45.613Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "cafc8395-c8ae-47a0-9e3b-cec642a81174",
+        "unit_number": 21581,
+        "size": "Extra Large",
+        "availability_status": true,
+        "rent_price": 97263,
+        "last_maintenance_date": "2023-09-20T04:13:45.439Z",
+        "created_at": "2023-09-20T12:00:10.490Z",
+        "updated_at": "2023-09-20T10:50:33.068Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "ee3d0667-99ea-407b-b242-60859e517796",
+        "unit_number": 75028,
+        "size": "Custom",
+        "availability_status": true,
+        "rent_price": 55580,
+        "last_maintenance_date": "2023-09-20T05:53:50.785Z",
+        "created_at": "2023-09-20T13:24:14.577Z",
+        "updated_at": "2023-09-20T09:52:22.061Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "rental": [
+      {
+        "id": "bc351f1d-bfa7-4224-b653-acaa297cc84a",
+        "start_date": "2023-09-19T19:22:48.400Z",
+        "end_date": "2023-09-19T19:42:47.411Z",
+        "total_cost": 25097,
+        "payment_status": true,
+        "created_at": "2023-09-19T23:27:40.580Z",
+        "updated_at": "2023-09-20T13:09:02.670Z",
+        "storage_unit_id": "96dff227-9b11-4e9e-b628-fa98d8f754c3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a8418e4-7e8f-498e-9fb7-64a80e383cc1",
+        "start_date": "2023-09-20T01:13:16.540Z",
+        "end_date": "2023-09-20T09:40:49.453Z",
+        "total_cost": 85012,
+        "payment_status": true,
+        "created_at": "2023-09-20T09:31:15.292Z",
+        "updated_at": "2023-09-20T03:56:50.639Z",
+        "storage_unit_id": "a3807ee2-8e90-4b99-9d93-26a0787d97aa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cd8d1e1-3eb9-49ca-be55-208f1ce2d563",
+        "start_date": "2023-09-20T02:25:20.310Z",
+        "end_date": "2023-09-19T21:51:20.515Z",
+        "total_cost": 95362,
+        "payment_status": false,
+        "created_at": "2023-09-19T23:53:07.762Z",
+        "updated_at": "2023-09-19T18:52:49.866Z",
+        "storage_unit_id": "cafc8395-c8ae-47a0-9e3b-cec642a81174",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "893392d1-a070-46cf-9aee-37b448a290a8",
+        "start_date": "2023-09-20T05:12:11.785Z",
+        "end_date": "2023-09-19T22:55:08.520Z",
+        "total_cost": 37255,
+        "payment_status": true,
+        "created_at": "2023-09-20T08:05:27.860Z",
+        "updated_at": "2023-09-20T02:42:22.901Z",
+        "storage_unit_id": "cafc8395-c8ae-47a0-9e3b-cec642a81174",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d9e0bccf-daac-4eaf-9449-158c739a6423",
+        "start_date": "2023-09-19T23:12:14.988Z",
+        "end_date": "2023-09-19T16:20:14.206Z",
+        "total_cost": 93140,
+        "payment_status": true,
+        "created_at": "2023-09-20T05:26:05.101Z",
+        "updated_at": "2023-09-20T03:44:56.214Z",
+        "storage_unit_id": "cafc8395-c8ae-47a0-9e3b-cec642a81174",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "b1bdcd36-85fd-48cc-86ec-37316ed0068b",
+        "maintenance_date": "2023-09-20T10:35:38.411Z",
+        "maintenance_type": "Routine",
+        "description": "Regular maintenance to ensure optimal performance",
+        "cost": 35945,
+        "created_at": "2023-09-20T04:37:41.689Z",
+        "updated_at": "2023-09-20T07:33:55.138Z",
+        "storage_unit_id": "c7cb1162-ca04-4595-b6f0-49e8b47482dc"
+      },
+      {
+        "id": "6ff5efc6-95ba-45a1-92ee-dfacfc536afa",
+        "maintenance_date": "2023-09-19T21:50:39.117Z",
+        "maintenance_type": "Preventive",
+        "description": "Scheduled maintenance to prevent breakdowns",
+        "cost": 52603,
+        "created_at": "2023-09-19T23:50:08.088Z",
+        "updated_at": "2023-09-20T06:34:44.337Z",
+        "storage_unit_id": "c7cb1162-ca04-4595-b6f0-49e8b47482dc"
+      },
+      {
+        "id": "bd76cb80-1e93-4cb1-a9b0-3d50edbc36fb",
+        "maintenance_date": "2023-09-19T23:25:23.245Z",
+        "maintenance_type": "Corrective",
+        "description": "Repairs to fix equipment issues",
+        "cost": 77449,
+        "created_at": "2023-09-20T13:14:11.149Z",
+        "updated_at": "2023-09-19T15:42:27.621Z",
+        "storage_unit_id": "c7cb1162-ca04-4595-b6f0-49e8b47482dc"
+      },
+      {
+        "id": "e1475efa-6fe7-45eb-b5dd-e57cca8019a4",
+        "maintenance_date": "2023-09-20T12:01:28.969Z",
+        "maintenance_type": "Emergency",
+        "description": "Urgent maintenance due to critical failures",
+        "cost": 76137,
+        "created_at": "2023-09-20T08:16:12.186Z",
+        "updated_at": "2023-09-20T11:56:41.864Z",
+        "storage_unit_id": "c7cb1162-ca04-4595-b6f0-49e8b47482dc"
+      },
+      {
+        "id": "30892d07-bb8c-47f9-bd1a-b03c705d3e1f",
+        "maintenance_date": "2023-09-20T10:36:06.648Z",
+        "maintenance_type": "Predictive",
+        "description": "Proactive maintenance based on data analysis",
+        "cost": 79663,
+        "created_at": "2023-09-20T07:28:21.680Z",
+        "updated_at": "2023-09-20T07:39:23.737Z",
+        "storage_unit_id": "cafc8395-c8ae-47a0-9e3b-cec642a81174"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "02e64768-f0c8-4f37-b02c-26b439320432",
+        "item_name": "Chair",
+        "quantity": 68551,
+        "location": "Office",
+        "last_updated": "2023-09-19T17:38:18.389Z",
+        "created_at": "2023-09-19T17:48:23.204Z",
+        "updated_at": "2023-09-19T16:28:34.979Z",
+        "storage_unit_id": "a3807ee2-8e90-4b99-9d93-26a0787d97aa"
+      },
+      {
+        "id": "fb37d93d-367e-413a-a425-8283e6b3532c",
+        "item_name": "Desk",
+        "quantity": 45942,
+        "location": "Warehouse",
+        "last_updated": "2023-09-20T06:03:46.051Z",
+        "created_at": "2023-09-19T15:48:34.865Z",
+        "updated_at": "2023-09-20T07:53:42.072Z",
+        "storage_unit_id": "cafc8395-c8ae-47a0-9e3b-cec642a81174"
+      },
+      {
+        "id": "a46b4451-1277-4bdf-bb63-1f6924df50f6",
+        "item_name": "Computer",
+        "quantity": 82308,
+        "location": "Store",
+        "last_updated": "2023-09-20T07:37:06.159Z",
+        "created_at": "2023-09-19T20:01:25.581Z",
+        "updated_at": "2023-09-20T13:09:26.585Z",
+        "storage_unit_id": "ee3d0667-99ea-407b-b242-60859e517796"
+      },
+      {
+        "id": "70998820-93e7-462a-a39c-5672c1825c1c",
+        "item_name": "Printer",
+        "quantity": 21482,
+        "location": "Lab",
+        "last_updated": "2023-09-20T03:07:06.963Z",
+        "created_at": "2023-09-19T18:55:37.668Z",
+        "updated_at": "2023-09-20T10:36:17.122Z",
+        "storage_unit_id": "cafc8395-c8ae-47a0-9e3b-cec642a81174"
+      },
+      {
+        "id": "832d0ded-73f5-4cde-adbf-7eaa459a3ee8",
+        "item_name": "Phone",
+        "quantity": 18778,
+        "location": "Clinic",
+        "last_updated": "2023-09-20T01:42:25.839Z",
+        "created_at": "2023-09-20T03:21:48.557Z",
+        "updated_at": "2023-09-20T07:57:01.601Z",
+        "storage_unit_id": "96dff227-9b11-4e9e-b628-fa98d8f754c3"
+      }
+    ],
+    "customer": [
+      {
+        "id": "ff02b535-3e37-4b65-a9b7-1208f6296c77",
+        "created_at": "2023-09-20T10:41:19.815Z",
+        "updated_at": "2023-09-20T13:22:40.423Z"
+      },
+      {
+        "id": "94722e94-0dec-4bb1-b034-10274df0b7b4",
+        "created_at": "2023-09-20T11:06:28.693Z",
+        "updated_at": "2023-09-20T07:45:32.589Z"
+      },
+      {
+        "id": "d14c84e8-7e73-47b8-b439-4cafa403464e",
+        "created_at": "2023-09-19T13:44:11.098Z",
+        "updated_at": "2023-09-19T15:45:05.575Z"
+      },
+      {
+        "id": "4fc7030e-5c16-4b3d-bc35-598d675afcad",
+        "created_at": "2023-09-19T18:23:55.112Z",
+        "updated_at": "2023-09-20T13:16:04.523Z"
+      },
+      {
+        "id": "3c9b70d5-24a9-4862-8499-f94a6681b7ee",
+        "created_at": "2023-09-20T00:12:39.883Z",
+        "updated_at": "2023-09-19T18:55:46.065Z"
+      }
+    ],
+    "access_log": [
+      {
+        "id": "041c6b45-7d4e-4b25-8c25-75fcef042775",
+        "created_at": "2023-09-19T18:43:47.754Z",
+        "updated_at": "2023-09-20T05:53:29.968Z"
+      },
+      {
+        "id": "ddacceb2-57fa-48df-8add-88a12ccb691a",
+        "created_at": "2023-09-20T12:05:21.574Z",
+        "updated_at": "2023-09-20T09:43:31.683Z"
+      },
+      {
+        "id": "f49c6408-d89c-4c6f-833e-aa21914d2a63",
+        "created_at": "2023-09-19T17:32:30.900Z",
+        "updated_at": "2023-09-20T12:41:25.366Z"
+      },
+      {
+        "id": "da8a9eab-7a08-4c88-bc2d-c8625058f576",
+        "created_at": "2023-09-19T18:38:19.596Z",
+        "updated_at": "2023-09-19T23:59:54.238Z"
+      },
+      {
+        "id": "119c5ffa-4b9d-4d2c-8955-fdc1eeaff35e",
+        "created_at": "2023-09-19T23:14:07.547Z",
+        "updated_at": "2023-09-19T21:52:55.054Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7076de06-38be-4272-860c-764f5c652b84",
+        "email": "Eula.Cummerata51@yahoo.com",
+        "firstName": "Jaiden",
+        "lastName": "Green",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7449732",
+        "tenantId": null
+      },
+      {
+        "reference": "002a8705-c553-4611-840e-e545b67ef55f",
+        "email": "Elaina.Franey82@yahoo.com",
+        "firstName": "Guiseppe",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47364832",
+        "tenantId": null
+      },
+      {
+        "reference": "125a30bb-fba0-424a-a05e-a47269d510db",
+        "email": "Juliet_Powlowski20@hotmail.com",
+        "firstName": "Brooks",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/73.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7019bf99-2a4f-4364-b865-2112a891d648",
+        "email": "Darron_Batz-Casper25@hotmail.com",
+        "firstName": "Omer",
+        "lastName": "Labadie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/323.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3543ccfa-90ab-45d6-a18d-f92ba3797147",
+        "email": "Viola49@gmail.com",
+        "firstName": "Kayden",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39177671",
+        "tenantId": null
+      }
+    ]
+  }
+]
